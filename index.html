@@ -2,13 +2,12 @@
 <html gl="US" lang="en-US">
     <head>
         <title>Card Wars Online</title>
+        <link rel="icon" type="image/png" href="favicon.png">
         <style>
-            
+            /* Soon */
         </style>
         <script>
-            // Read json file
-            // Function to 'load JSON' data
-            var card;
+
             function loadJSON(callback) {   
                 var xobj = new XMLHttpRequest();
                 xobj.overrideMimeType("application/json");
@@ -23,24 +22,43 @@
             }
             function init() {
                 loadJSON(function(response) {
-                    // Parse JSON string into object
-                    card = JSON.parse(response);
-                    num = (Math.floor(Math.random()*250)+1)
-                    console.log(num);
-                    console.log(card[num].name);
+                    // Parse JSON string into object                    
+                    window.card = JSON.parse(response);
                 });
             }
             
-            function load() {
-                init();
+            function search(deck) {
+                // Deck as in CP[1-6][a or b]
+                for (var i = 0;i < 512;i++) {
+                    if (card[i].deck.slice(0,4) == deck) {
+                        player2.push([card[i].id,card[i].deck.slice(4,5)]);
+                    };
+                };
+            }
+            var player1 = []; 
+            var player2 = [];
+
+            // FINN AND JAKE DECK
+            var CP1a = [[14,"1"],[26,"2"],[34,"2"],[66,"1"],[86,"1"],[87,"1"],[88,"2"],[89,"2"],[90,"2"],[100,"1"],[120,"1"],[132,"1"],[148,"2"],[149,"1"],[150,"2"],[228,"2"],[230,"2"],[265,"2"],[320,"2"],[325,"1"],[356,"2"],[400,"1"],[454,"2"],[473,"2"],[488,"2"]];
+            var CP1b = [[8,"2"],[68,"2"],[82,"2"],[116,"2"],[126,"2"],[192,"2"],[217,"1"],[303,"2"],[342,"2"],[346,"2"],[386,"1"],[439,"2"],[462,"2"],[481,"1"],[498,"1"],[499,"2"],[500,"2"],[501,"1"],[503,"2"],[507,"2"]];
+            // Give player selected deck with cards
+            function shuffle(deck) {
+                for (let i = deck.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [deck[i], deck[j]] = [deck[j], deck[i]];
+                }
+                return a;
+            }
+             
+            function cardwars() {
+                player1 = shuffle(CP1a);
+                player2 = shuffle(CP1b);
                 
             }
-
-            // Give player selected deck with cards
-            // Custom deck buliding will come later; 
-            // Each card needs a hexadecimal ID
-            
-
+            function load() {
+               init();
+               cardwars();
+            }
         </script>
     </head>
     <body onload="load();">
