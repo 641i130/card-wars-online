@@ -4,7 +4,34 @@
         <title>Card Wars Online</title>
         <link rel="icon" type="image/png" href="favicon.png">
         <style>
-            /* Soon */
+            * {
+                box-sizing: border-box;
+            }
+            body {
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+                height: 100%;
+                width: 100%;
+                background-color: grey;
+            }
+            .desk {
+                /*this is behind the lanes and topbar*/
+                background-color: teal;
+                width: fit-content;
+                height: fit-content;
+            }
+            .topbar {
+                height: 16px;
+                width: 100%;
+                background-color: yellow;
+            }
+            .lanes {
+                height: 100%;
+                margin: 2%;
+                background-color:orange;
+            }
         </style>
         <script>
             var card;
@@ -67,6 +94,7 @@
                 
 
             }
+            
             function load() {                
                 readJSON();
                 //search("CP1b");
@@ -75,8 +103,14 @@
         </script>
     </head>
     <body onload="load();">
-        <div id="desk">
+        <div class="desk">
+            <div class="topbar">
+                <!--For things like players online, opponent again, HP, Deck Code-->
+            </div>
+            <div class="lanes">
+                <!--4 lanes-->
+                <canvas></canvas>
+            </div>
         </div>
     </body>
 </html>
-
