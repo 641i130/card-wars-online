@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html gl="US" lang="en-US">
+    <head>
+        <title>Card Wars Online</title>
+        <style>
+            
+        </style>
+        <script>
+            // Read json file
+            // Function to 'load JSON' data
+            var card;
+            function loadJSON(callback) {   
+                var xobj = new XMLHttpRequest();
+                xobj.overrideMimeType("application/json");
+                xobj.open('GET', 'cards.json', true); // Replace 'my_data' with the path to your file
+                xobj.onreadystatechange = function () {
+                    if (xobj.readyState == 4 && xobj.status == "200") {
+                        // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                        callback(xobj.responseText);
+                    }
+                };
+                xobj.send(null);  
+            }
+            function init() {
+                loadJSON(function(response) {
+                    // Parse JSON string into object
+                    card = JSON.parse(response);
+                    num = (Math.floor(Math.random()*250)+1)
+                    console.log(num);
+                    console.log(card[num].name);
+                });
+            }
+            
+            function load() {
+                init();
+                
+            }
+
+            // Give player selected deck with cards
+            // Custom deck buliding will come later; 
+            // Each card needs a hexadecimal ID
+            
+
+        </script>
+    </head>
+    <body onload="load();">
+        <div id="desk"></div>
+
+    </body>
+</html>
+
