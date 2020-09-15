@@ -14,7 +14,7 @@ script = ExtResource( 2 )
 script = ExtResource( 1 )
 
 [node name="Lane" type="Area2D" parent="."]
-position = Vector2( 322.237, 313.165 )
+position = Vector2( 309.023, 231.992 )
 
 [node name="Sprite" type="Sprite" parent="Lane"]
 scale = Vector2( 0.841, 0.841 )
@@ -25,7 +25,7 @@ scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
 [node name="Lane2" type="Area2D" parent="."]
-position = Vector2( 663.987, 313.509 )
+position = Vector2( 650.773, 232.336 )
 
 [node name="Sprite" type="Sprite" parent="Lane2"]
 scale = Vector2( 0.841, 0.841 )
@@ -36,7 +36,7 @@ scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
 [node name="Lane3" type="Area2D" parent="."]
-position = Vector2( 985.987, 311.667 )
+position = Vector2( 972.773, 230.493 )
 
 [node name="Sprite" type="Sprite" parent="Lane3"]
 scale = Vector2( 0.841, 0.841 )
@@ -47,7 +47,7 @@ scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
 [node name="Lane4" type="Area2D" parent="."]
-position = Vector2( 1327.74, 312.01 )
+position = Vector2( 1314.52, 230.837 )
 
 [node name="Sprite" type="Sprite" parent="Lane4"]
 scale = Vector2( 0.841, 0.841 )
