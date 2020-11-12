@@ -19,10 +19,25 @@ config/name="cardwars"
 run/main_scene="res://menu.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+PluginSettings="*res://addons/github-integration/scripts/PluginSettings.gd"
+IconLoaderGithub="*res://addons/github-integration/scripts/IconLoaderGithub.gd"
+RestHandler="*res://addons/github-integration/scenes/RestHandler.tscn"
+UserData="*res://addons/github-integration/scripts/user_data.gd"
+
 [display]
 
 window/size/width=1600
 window/size/height=900
+
+[editor_plugins]
+
+enabled=PoolStringArray( "github-integration" )
+
+[gdnative]
+
+singletons=[  ]
 
 [input]
 
