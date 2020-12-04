@@ -1,13 +1,13 @@
 [gd_scene load_steps=11 format=2]
 
-[ext_resource path="res://Card.gd" type="Script" id=1]
-[ext_resource path="res://game.gd" type="Script" id=2]
+[ext_resource path="res://objects/Card.gd" type="Script" id=1]
+[ext_resource path="res://objects/game.gd" type="Script" id=2]
 [ext_resource path="res://assets/landscapes/blueplains1.jpg" type="Texture" id=3]
 [ext_resource path="res://assets/landscapes/blueplains4.jpg" type="Texture" id=4]
 [ext_resource path="res://assets/landscapes/blueplains2.jpg" type="Texture" id=5]
 [ext_resource path="res://assets/landscapes/blueplains3.jpg" type="Texture" id=6]
 [ext_resource path="res://assets/cards/0.jpg" type="Texture" id=7]
-[ext_resource path="res://Area2D.gd" type="Script" id=8]
+[ext_resource path="res://objects/Area2D.gd" type="Script" id=8]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 153.064, 215.606 )

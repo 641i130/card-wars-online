@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="Card Wars Online"
 config/description="This is a game framework for the card wars cards that were scanned by the community. It will be a replacement for the table top simulator along with being able to run in browser eventually."
-run/main_scene="res://menu.tscn"
+run/main_scene="res://scenes/menu.tscn"
 config/icon="res://icon.png"
 
 [display]

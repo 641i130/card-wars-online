@@ -17,4 +17,4 @@ func _ready():
 
 
 func _on_Button_pressed(): # startgame button
-	get_tree().change_scene("res://game.tscn") # when pressed, switch to the game 
+	get_tree().change_scene("res://scenes/game.tscn") # when pressed, switch to the game 
