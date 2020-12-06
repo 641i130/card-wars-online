@@ -1,16 +1,14 @@
-[gd_scene load_steps=11 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://objects/Card.gd" type="Script" id=1]
 [ext_resource path="res://objects/game.gd" type="Script" id=2]
 [ext_resource path="res://assets/landscapes/blueplains1.jpg" type="Texture" id=3]
-[ext_resource path="res://assets/landscapes/blueplains4.jpg" type="Texture" id=4]
-[ext_resource path="res://assets/landscapes/blueplains2.jpg" type="Texture" id=5]
-[ext_resource path="res://assets/landscapes/blueplains3.jpg" type="Texture" id=6]
+[ext_resource path="res://assets/siteresource/forumpost1.jpg" type="Texture" id=4]
 [ext_resource path="res://assets/cards/0.jpg" type="Texture" id=7]
 [ext_resource path="res://objects/Area2D.gd" type="Script" id=8]
 
 [sub_resource type="RectangleShape2D" id=1]
-extents = Vector2( 153.064, 215.606 )
+extents = Vector2( 118.792, 167.889 )
 
 [sub_resource type="RectangleShape2D" id=2]
 extents = Vector2( 99.1468, 134.941 )
@@ -18,60 +16,187 @@ extents = Vector2( 99.1468, 134.941 )
 [node name="Desk" type="Node2D"]
 script = ExtResource( 2 )
 
-[node name="Lane" type="Area2D" parent="."]
-position = Vector2( 309.023, 231.992 )
-
-[node name="Sprite" type="Sprite" parent="Lane"]
-position = Vector2( 1.88773, 0.277374 )
-scale = Vector2( 0.487948, 0.487948 )
-texture = ExtResource( 3 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Lane"]
-position = Vector2( 0.0728149, -0.667419 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Lane2" type="Area2D" parent="."]
-position = Vector2( 584.461, 232.162 )
-
-[node name="Sprite" type="Sprite" parent="Lane2"]
-position = Vector2( 1.88773, 0.277374 )
-scale = Vector2( 0.487948, 0.487948 )
-texture = ExtResource( 5 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Lane2"]
-position = Vector2( 0.0728149, -0.667419 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Lane3" type="Area2D" parent="."]
-position = Vector2( 869.529, 231.383 )
-
-[node name="Sprite" type="Sprite" parent="Lane3"]
-position = Vector2( 1.88773, 0.277374 )
-scale = Vector2( 0.487948, 0.487948 )
-texture = ExtResource( 6 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Lane3"]
-position = Vector2( 0.0728149, -0.667419 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Lane4" type="Area2D" parent="."]
-position = Vector2( 1144.97, 231.553 )
-
-[node name="Sprite" type="Sprite" parent="Lane4"]
-position = Vector2( 4.40747, 0.277374 )
-scale = Vector2( 0.487948, 0.487948 )
+[node name="Wallpaper" type="Sprite" parent="."]
+position = Vector2( 800.862, 428.687 )
+scale = Vector2( 1.51592, 1.51592 )
 texture = ExtResource( 4 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Lane4"]
-position = Vector2( 0.0728149, -0.667419 )
+[node name="Opponent Lanes" type="Area2D" parent="."]
+position = Vector2( 1291.12, 547.351 )
+
+[node name="Lane" type="Area2D" parent="Opponent Lanes"]
+position = Vector2( -783.947, -349.021 )
+
+[node name="Sprite" type="Sprite" parent="Opponent Lanes/Lane"]
+position = Vector2( -1.99994, -15.3683 )
+rotation = 3.14159
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Opponent Lanes/Lane"]
+position = Vector2( -1.92719, -15.203 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Lane2" type="Area2D" parent="Opponent Lanes"]
+position = Vector2( -508.509, -348.851 )
+
+[node name="Sprite2" type="Sprite" parent="Opponent Lanes/Lane2"]
+position = Vector2( -69.7825, -14.4157 )
+rotation = 3.14159
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Opponent Lanes/Lane2"]
+position = Vector2( -69.0912, -14.1447 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Lane3" type="Area2D" parent="Opponent Lanes"]
+position = Vector2( -223.441, -349.63 )
+
+[node name="Sprite3" type="Sprite" parent="Opponent Lanes/Lane3"]
+position = Vector2( -143.828, -13.3847 )
+rotation = 3.14159
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Opponent Lanes/Lane3"]
+position = Vector2( -144.46, -13.4441 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Lane4" type="Area2D" parent="Opponent Lanes"]
+
+[node name="Sprite4" type="Sprite" parent="Opponent Lanes/Lane4"]
+position = Vector2( -161.249, -363.015 )
+rotation = 3.14159
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Opponent Lanes/Lane4"]
+position = Vector2( -160.17, -362.757 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Player Lanes" type="Area2D" parent="."]
+position = Vector2( 1291.12, 547.351 )
+
+[node name="Lane" type="Area2D" parent="Player Lanes"]
+position = Vector2( -783.947, -36.561 )
+
+[node name="Sprite" type="Sprite" parent="Player Lanes/Lane"]
+position = Vector2( -1.99994, -15.3683 )
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Lanes/Lane"]
+position = Vector2( -1.92719, -15.203 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Lane2" type="Area2D" parent="Player Lanes"]
+position = Vector2( -508.509, -36.391 )
+
+[node name="Sprite2" type="Sprite" parent="Player Lanes/Lane2"]
+position = Vector2( -69.7825, -14.4157 )
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Lanes/Lane2"]
+position = Vector2( -69.0912, -14.1447 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Lane3" type="Area2D" parent="Player Lanes"]
+position = Vector2( -223.441, -37.17 )
+
+[node name="Sprite3" type="Sprite" parent="Player Lanes/Lane3"]
+position = Vector2( -143.828, -13.3847 )
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Lanes/Lane3"]
+position = Vector2( -144.46, -13.4441 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Lane4" type="Area2D" parent="Player Lanes"]
+
+[node name="Sprite4" type="Sprite" parent="Player Lanes/Lane4"]
+position = Vector2( -161.249, -50.5547 )
+scale = Vector2( 0.377863, 0.377863 )
+texture = ExtResource( 3 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Lanes/Lane4"]
+position = Vector2( -160.169, -50.2963 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="Player Hand" type="Area2D" parent="."]
+position = Vector2( 1238.15, 793.147 )
+
+[node name="0" type="Area2D" parent="Player Hand"]
+position = Vector2( -973.643, 84.6649 )
+
+[node name="Sprite" type="Sprite" parent="Player Hand/0"]
+position = Vector2( -1.99994, -15.3683 )
+scale = Vector2( 0.377863, 0.377863 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/0"]
+position = Vector2( -0.867737, -13.0841 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="1" type="Area2D" parent="Player Hand"]
+position = Vector2( -760.375, 83.5425 )
+
+[node name="Sprite" type="Sprite" parent="Player Hand/1"]
+position = Vector2( -1.99994, -15.3683 )
+scale = Vector2( 0.377863, 0.377863 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/1"]
+position = Vector2( -0.867737, -13.0841 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="2" type="Area2D" parent="Player Hand"]
+position = Vector2( -484.937, 83.7125 )
+
+[node name="Sprite2" type="Sprite" parent="Player Hand/2"]
+position = Vector2( -69.7825, -14.4157 )
+scale = Vector2( 0.377863, 0.377863 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/2"]
+position = Vector2( -69.0912, -14.1447 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="3" type="Area2D" parent="Player Hand"]
+position = Vector2( -199.869, 82.9335 )
+
+[node name="Sprite3" type="Sprite" parent="Player Hand/3"]
+position = Vector2( -143.828, -13.3847 )
+scale = Vector2( 0.377863, 0.377863 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/3"]
+position = Vector2( -144.46, -13.4441 )
+scale = Vector2( 0.841, 0.841 )
+shape = SubResource( 1 )
+
+[node name="4" type="Area2D" parent="Player Hand"]
+
+[node name="Sprite4" type="Sprite" parent="Player Hand/4"]
+position = Vector2( -137.677, 69.5488 )
+scale = Vector2( 0.377863, 0.377863 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/4"]
+position = Vector2( -136.598, 69.8072 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
 [node name="Deck" type="Area2D" parent="."]
-position = Vector2( 743.269, 745.673 )
+position = Vector2( 1432.27, 716.673 )
 script = ExtResource( 8 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Deck"]
@@ -82,4 +207,24 @@ position = Vector2( 0.49765, -0.765823 )
 scale = Vector2( 0.520172, 0.520172 )
 texture = ExtResource( 7 )
 script = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+margin_left = 29.0
+margin_top = 30.0
+margin_right = 334.0
+margin_bottom = 334.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+margin_right = 305.0
+margin_bottom = 304.0
+
+[node name="HP" type="MarginContainer" parent="MarginContainer/HBoxContainer"]
+
+[node name="Label" type="Label" parent="MarginContainer/HBoxContainer/HP"]
+margin_right = 22.0
+margin_bottom = 14.0
+text = "HP:"
 [connection signal="input_event" from="Deck" to="Deck" method="_on_Area2D_input_event"]
