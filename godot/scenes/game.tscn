@@ -137,61 +137,61 @@ shape = SubResource( 1 )
 [node name="Player Hand" type="Area2D" parent="."]
 position = Vector2( 1238.15, 793.147 )
 
-[node name="0" type="Area2D" parent="Player Hand"]
+[node name="One" type="Area2D" parent="Player Hand"]
 position = Vector2( -973.643, 84.6649 )
 
-[node name="Sprite" type="Sprite" parent="Player Hand/0"]
+[node name="One" type="Sprite" parent="Player Hand/One"]
 position = Vector2( -1.99994, -15.3683 )
 scale = Vector2( 0.377863, 0.377863 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/0"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/One"]
 position = Vector2( -0.867737, -13.0841 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
-[node name="1" type="Area2D" parent="Player Hand"]
+[node name="Two" type="Area2D" parent="Player Hand"]
 position = Vector2( -760.375, 83.5425 )
 
-[node name="Sprite" type="Sprite" parent="Player Hand/1"]
+[node name="Two" type="Sprite" parent="Player Hand/Two"]
 position = Vector2( -1.99994, -15.3683 )
 scale = Vector2( 0.377863, 0.377863 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/1"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Two"]
 position = Vector2( -0.867737, -13.0841 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
-[node name="2" type="Area2D" parent="Player Hand"]
+[node name="Three" type="Area2D" parent="Player Hand"]
 position = Vector2( -484.937, 83.7125 )
 
-[node name="Sprite2" type="Sprite" parent="Player Hand/2"]
+[node name="Three" type="Sprite" parent="Player Hand/Three"]
 position = Vector2( -69.7825, -14.4157 )
 scale = Vector2( 0.377863, 0.377863 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/2"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Three"]
 position = Vector2( -69.0912, -14.1447 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
-[node name="3" type="Area2D" parent="Player Hand"]
+[node name="Four" type="Area2D" parent="Player Hand"]
 position = Vector2( -199.869, 82.9335 )
 
-[node name="Sprite3" type="Sprite" parent="Player Hand/3"]
+[node name="Four" type="Sprite" parent="Player Hand/Four"]
 position = Vector2( -143.828, -13.3847 )
 scale = Vector2( 0.377863, 0.377863 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/3"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Four"]
 position = Vector2( -144.46, -13.4441 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
-[node name="4" type="Area2D" parent="Player Hand"]
+[node name="Five" type="Area2D" parent="Player Hand"]
 
-[node name="Sprite4" type="Sprite" parent="Player Hand/4"]
+[node name="Five" type="Sprite" parent="Player Hand/Five"]
 position = Vector2( -137.677, 69.5488 )
 scale = Vector2( 0.377863, 0.377863 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/4"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Five"]
 position = Vector2( -136.598, 69.8072 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
