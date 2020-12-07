@@ -1,4 +1,5 @@
 extends Area2D
+extends "res://scripts/decklists.gd"
 
 # When loaded, set this variable to the  sprite in the player's hand
 onready var one = get_tree().get_root().get_node("Desk/Player Hand/One/One")
@@ -7,19 +8,22 @@ onready var three = get_tree().get_root().get_node("Desk/Player Hand/Three/Three
 onready var four = get_tree().get_root().get_node("Desk/Player Hand/Four/Four")
 onready var five = get_tree().get_root().get_node("Desk/Player Hand/Five/Five")
 onready var hand = [[0, one],[1, two], [2, three],[3, four],[4, five]]
-onready var maindata = {}
+onready var cardsall = {}
 
 func _ready():
 	readincsv() # Read CSV file into memory
-
+"""
+CSV ORDER:
+name,description,card_type,landscape,cost,atk,def,ability,deck_info,image_name
+"""
 func readincsv():
 	var file = File.new()
 	file.open("res://assets/cards.csv", file.READ)
 	while !file.eof_reached():
-		var data_set = Array(file.get_csv_line())
-		maindata[maindata.size()] = data_set
+		var data_set = Array(file.get_csv_line()) # 
+		cardsall[cardsall.size()] = data_set # Append to file
 	file.close()
-	print(maindata)
+	print(cardsall[1][0]) # Example on how to read card name with an ID 1 being the ID of the card and 0 being the card's name record
 
 
 var rng = RandomNumberGenerator.new()
