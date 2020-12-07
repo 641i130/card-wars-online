@@ -9,10 +9,6 @@ onready var five = get_tree().get_root().get_node("Desk/Player Hand/Five/Five")
 onready var hand = [[0, one],[1, two], [2, three],[3, four],[4, five]]
 
 
-
-
-
-
 var file = File.new()
 file.open("res://assets/cards.csv", File.READ)
 var content = file.get_csv_line()

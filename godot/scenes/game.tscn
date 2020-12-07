@@ -8,6 +8,8 @@
 [ext_resource path="res://assets/cards/0.jpg" type="Texture" id=7]
 [ext_resource path="res://scripts/Deck.gd" type="Script" id=8]
 
+
+
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 118.792, 167.889 )
 
@@ -18,8 +20,8 @@ extents = Vector2( 99.1468, 134.941 )
 script = ExtResource( 2 )
 
 [node name="Wallpaper" type="Sprite" parent="."]
-position = Vector2( 795.219, 450.896 )
-scale = Vector2( 1.52747, 1.24224 )
+position = Vector2( 799.673, 429.507 )
+scale = Vector2( 1.51818, 1.51818 )
 texture = ExtResource( 4 )
 
 [node name="Opponent Lanes" type="Area2D" parent="."]
