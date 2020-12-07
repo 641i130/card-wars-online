@@ -7,15 +7,19 @@ onready var three = get_tree().get_root().get_node("Desk/Player Hand/Three/Three
 onready var four = get_tree().get_root().get_node("Desk/Player Hand/Four/Four")
 onready var five = get_tree().get_root().get_node("Desk/Player Hand/Five/Five")
 onready var hand = [[0, one],[1, two], [2, three],[3, four],[4, five]]
+onready var maindata = {}
 
+func _ready():
+	readincsv() # Read CSV file into memory
 
-var file = File.new()
-file.open("res://assets/cards.csv", File.READ)
-var content = file.get_csv_line()
-file.close()
-print(content)
-
-
+func readincsv():
+	var file = File.new()
+	file.open("res://assets/cards.csv", file.READ)
+	while !file.eof_reached():
+		var data_set = Array(file.get_csv_line())
+		maindata[maindata.size()] = data_set
+	file.close()
+	print(maindata)
 
 
 var rng = RandomNumberGenerator.new()
