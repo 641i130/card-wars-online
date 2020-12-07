@@ -1,0 +1,546 @@
+name,description,card_type,landscape,cost,atk,def,ability,deck_info,image_name
+Abdominal Snowman,+3 ATK while your opponent does not control a Creature in this Lane.,Creature,IcyLands,1,3,2,Continuous,Ice King's IcyLands Deck (CP4) - 2,Abdominal Snowman.jpg
+Abraca Amadeus,Target opponent discards a card from his hand for every 5 cards in your discard pile.,Spell,Useless Swamp,1,,,,BMO's Useless Swamp Deck (CP2) - 1,Abraca Amadeus.jpg
+Abracadaniel,"Pay 1 Action >>> Reveal the top card of your deck. If it's a Rainbow card, play it.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Abracadaniel.jpg
+Adorabunny,"At the start of your turn, if Adorabunny has 4 or more Damage on it, deal 3 Damage to target opponent.",Creature,NiceLands,1,0,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1 : Charlie's Blue Plains/NiceLands Deck (2v2) - 2",Adorabunny.jpg
+Aeromancer,"When Aeromancer enters play, you may swap the positions of 2 Creatures [that the] target player controls.",Creature,Blue Plains,2,3,5,Entering Play,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Aeromancer.jpg
+Albino Eyebat,"While Albino Eyebat has exactly 2 Damage on it, it has +2 ATK.",Creature,NiceLands,1,2,7,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 2,Albino Eyebat.jpg
+Amaizing Avalanche,Each of your Creatures has +1 ATK this turn for each face-down Landscape in play.,Spell,Cornfield,1,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Amaizing Avalanche.jpg
+Ancient Scholar,"FLOOP >>> Return a random Rainbow card from your Discard Pile to your Hand. If you Control a Building in this Lane, gain 1 Action.",Creature,Blue Plains,1,1,7,FLOOP,Finn's Blue Plains Deck (CP1) - 2,Ancient Scholar.jpg
+Angel Heart,"While Angel Heart has exactly 3 Damage on it, it has +3 ATK.",Creature,Rainbow,0,0,7,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 2,Angel Heart.jpg
+Angel of Chocolate,Pay 1 Action >>> Heal all Damage from Angel of Chocolate.,Creature,NiceLands,2,3,7,Ignition,Princess Bubblegum's NiceLands Deck (CP3) - 1,Angel of Chocolate.jpg
+Angel of Vanilla,Pay 1 Action >>> Heal all Damage from Angel of Vanilla.,Creature,NiceLands,1,2,6,Ignition,Princess Bubblegum's NiceLands Deck (CP3) - 2,Angel of Vanilla.jpg
+Apple Bully,Apple Bully's Landscape cannot be flipped down by effects opponents control.,Creature,Cornfield,2,3,8,Continuous,For the Glory! Booster Pack (FTG) - Rare,Apple Bully.jpg
+Apple Pieclops,"At the start of your turn, you may heal or deal 1 Damage to each Creature you control. (Choose for each Creature.)",Creature,NiceLands,2,1,7,Trigger,Princess Bubblegum's NiceLands Deck (CP3) - 2,Apple Pieclops.jpg
+Archer Dan,FLOOP >>> Destroy target Building in Archer Dan's Lane.,Creature,Cornfield,2,2,6,FLOOP,Jake's Cornfield Deck (CP1) - 1 : For the Glory! Booster Pack (FTG) - Rare,Archer Dan.jpg
+Archer Danica,Destroy a Building you control and Floop >>> Deal 3 damage to each opposing Creature.,Creature,Cornfield,2,1,6,FLOOP,Cake's Cornfield Deck (CP6) - 1,Archer Danica.jpg
+Assistance,"At the start of your or your Teammate's Fight Phase, if you or your Teammate played a Creature with cost 2 or greater this turn, the other Teammate may draw a card.",Teamwork,SandyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Assistance.jpg
+Auto-Plucker,FLOOP >>> Heal or deal 1 Damage to your Creature in this Lane.,Building,NiceLands,1,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Auto-Plucker.jpg
+Bail Out,"Put target Creature you own into your hand, and then play it for free.",Spell,SandyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Bail Out.jpg
+Bale Out,"When target Creature attacks this turn, if it would leave play  during the Fight Phase, remove all Damage from it instead.",Spell,Cornfield,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Bale Out.jpg
+Ban-She Princess,"When Ban-She Princess enters play, you may remove a token from an adjacent Landscape.",Creature,Useless Swamp,1,2,7,Entering Play,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Ban-She Princess.jpg
+Ban-She Queen,"When Ban-She Queen enters play, you may remove a token from an adjacent Landscape.",Creature,Useless Swamp,2,3,9,Entering Play,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Ban-She Queen.jpg
+Bayou Fountain,Discard a card >>> Your Creature on this Landscape has +1 ATK this turn. (Use any number of times during each of your turns.),Building,Useless Swamp,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,Bayou Fountain.jpg
+Beach Blast,"Reveal the top 3 cards of your deck. Draw 1 and discard the rest. After playing this, you may put it into your Teammate's hand.",Spell,Rainbow,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Beach Blast.jpg
+Beach Mummy,FLOOP >>> Return a Creature in an adjacent Lane to its owner's hand.,Creature,SandyLands,1,1,6,FLOOP,Lady Rainicorn's SandyLand Deck (CP2) - 2 : For the Glory! Booster Pack (FTG) - Common,Beach Mummy.jpg
+Bean Ball Bomba,FLOOP >>> Heal or deal Damage to your Creature on this Landscape until it has 4 Damage on it.,Spell,NiceLands,2,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Bean Ball Bomba.jpg
+Big Foot,FLOOP >>> Flip target face down Landscape you control face up.,Creature,Rainbow,0,1,4,FLOOP,Jake's Cornfield Deck (CP1) - 2,Big Foot.jpg
+Billy,"If your opponent's deck runs out of cards, you win the game.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Billy.jpg
+Biomancer,"Each time a Creature you control changes Lanes, heal 2 Damage from Biomancer.",Creature,Blue Plains,1,1,8,Trigger,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Biomancer.jpg
+Black Hole Pendant,"Target Creature has +X ATK this turn, where X is the number of different Landscape types your opponent controls.",Spell,Rainbow,0,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Black Hole Pendant.jpg
+Black Paladin,+1 ATK for each card players (including you) have discarded from their hand this turn.,Creature,Useless Swamp,1,1,7,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Black Paladin.jpg
+Blonde MerWitch,"The seas are her cauldron, and her ingredients are anything that sinks.",Creature,Rainbow,2,3,9,None,BMO's Useless Swamp Deck (CP2) - 1,Blonde MerWitch.jpg
+Blood Bath,"Target foe may discard a card with cost 2 or greater. If they do not, deal 5 Damage to that foe.",Spell,Useless Swamp,2,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Blood Bath.jpg
+Blood Castle,"Each time an opposing Creature in this Lane takes Damage, increase the amount by 1.",Building,Rainbow,1,,,,Cake's Cornfield Deck (CP6) - 2,Blood Castle.jpg
+Blood Fortress,Your Creature in this Lane has +1 ATK.,Building,Rainbow,1,,,,Jake's Cornfield Deck (CP1) - 2 : Finn's Blue Plains Deck (CP1) - 1 : BMO's Useless Swamp Deck (CP2) - 2 : Lady Rainicorns's SandyLands Deck (CP2) - 2 : Princess Bubblegum's NiceLands Deck (CP3) - 1 : Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Blood Fortress.jpg
+Blood Transfusion,"Remove from game a card in any player's discard pile. Heal X Damage from target Creature, where X is the cost of the card removed this way.",Spell,Rainbow,0,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Blood Transfusion.jpg
+Blue Candy,Heal up to 3 Damage from target Creature you control.,Spell,NiceLands,1,,,,Princess Bubblegum's NiceLands Deck (CP3) - 2,Blue Candy.jpg
+Blue Gnome,FLOOP >>> Deal 1 Damage to each opposing Creature that is on a Useless Swamp Landscape.,Creature,Blue Plains,1,1,6,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Blue Gnome.jpg
+Blue Merlock,"FLOOP >>> Draw a card, then discard a card.",Creature,Useless Swamp,1,2,5,FLOOP,For the Glory! Booster Pack (FTG) - Common,Blue Merlock.jpg
+Blue Ogre,"Whenever you draw a card, Blue Ogre has +1 ATK this turn.",Creature,Blue Plains,2,1,5,Trigger,For the Glory! Booster Pack (FTG) - Rare,Blue Ogre.jpg
+Blue Slimey,"If you control 3 or more different Landscape types when Blue Slimey enters play, return a Creature in this Lane to it's owner's hand.",Creature,Blue Plains,1,2,6,Entering Play,For the Glory! Booster Pack (FTG) - Uncommon,Blue Slimey.jpg
+Blueberry Djini,"When Blueberry Djini enters play, if it replaced a Creature, draw two cards.",Creature,Blue Plains,1,2,6,Entering Play,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Blueberry Djini.jpg
+Blueberry Pieclops,Blueberry Pieclops costs 1 less to play for each Spell you have played this turn.,Creature,Blue Plains,4,5,6,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Blueberry Pieclops.jpg
+BMO,Discard a card from your hand >>> Deal 1 Damage to target Creature.,Hero,,,,,,Hero Pack #1 (HP1) - 1,BMO.jpg
+Boarder Collie,"FLOOP >>> Move Boarder Collie to any of your empty Landscapes. If either Landscape in that Lane is Frozen, gain 1 Action.",Creature,IcyLands,1,1,7,FLOOP,Ice King's IcyLands Deck (CP4) - 1,Boarder Collie.jpg
+Bog Ban-She Angel,Pay 1 Action >>> Move all Damage on this Creature to target Creature.,Creature,Useless Swamp,2,2,7,Ignition,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Bog Ban-She Angel.jpg
+Bog Bum,"If Bog Bum leaves play while Ready, each opponent discards a random card.",Creature,Useless Swamp,1,2,6,Leaving Play,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Bog Bum.jpg
+Bog Frog Bomb,"If Bog Frog Bomb leaves play while Ready, deal 2 Damage to each opposing Creature.",Creature,Useless Swamp,2,3,8,Leaving Play,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Bog Frog Bomb.jpg
+Bog Palace,"Your Creature on this Landscape has +3 ATK. At the start of each of your turns, discard a card.",Building,Useless Swamp,2,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Bog Palace.jpg
+Bomb Pop,Destroy target Creature on a Landscape with a Frozen token on it.,Spell,IcyLands,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Bomb Pop.jpg
+Bone Wand,Play only if you control a Useless Swamp Creature. Target opponent discards a card from his hand.,Spell,Rainbow,0,,,,BMO's Useless Swamp Deck (CP2) - 2,Bone Wand.jpg
+Bouncing Zebracorn,+1 ATK for each different Landscape type you control.,Creature,Cornfield,2,1,9,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Bouncing Zebracorn.jpg
+Brain Gooey,"When Brain Gooey enters play, if it replaced a Creature, it has +2 ATK this turn.",Creature,Blue Plains,1,1,7,Entering Play,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Brain Gooey.jpg
+Brief Power,Target Useless Swamp Creature you control has +2 ATK this turn.,Spell,Rainbow,0,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Brief Power.jpg
+Brigadier Banana Split,"When Brigadier Banana Split attacks, deal 2 Damage to target opposing Creature on a Landscape with a Frozen token on it.",Creature,IcyLands,2,3,9,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Brigadier Banana Split.jpg
+Bums Away!,"Target foe may discard a card. If they do not, deal 2 Damage to each of their Creatures.",Spell,Useless Swamp,1,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Bums Away!.jpg
+Burly Lumberjack,You may play additional Buildings onto this Landscape.,Creature,Cornfield,2,2,9,Continuous,Cake's Cornfield Deck (CP6) - 2,Burly Lumberjack.jpg
+Business Dog,"Business Dog has +2 ATK this turn for each card you have played ""Dog"" or ""Puppy"" in its tile this turn.",Creature,Blue Plains,1,1,6,,Fionna's Blue Plains Deck (CP6) - 1,Business Dog.jpg
+Cabin of Many Woods,Cabin of Many Woods costs 1 less to play for each Flooped Creature you control. Your Creature in the Lane has +5 DEF.,Building,Cornfield,5,,,,Cake's Cornfield Deck (CP6) - 1,Cabin of Many Woods.jpg
+Cactus Thug,Adjacent Cornfield Creatures have +1 ATK.,Creature,SandyLands,1,2,7,Continuous,For the Glory! Booster Pack (FTG) - Common,Cactus Thug.jpg
+Cake,"Each time a Building enters play under your control, heal 2 Damage from each Creature you control with a Building on its Landscape.",Hero,,,,,,Cake's Cornfield Deck (CP6) - 1,Cake.jpg
+Camaraderie,"Each time an opposing Creature deals Damage to your team, deal 1 Damage to the opposing Team.
+",Teamwork,IcyLands,2,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Camaraderie.jpg
+Captain Taco,"When Captain Taco enters play, deal 1 Damage to each Creature that is not on a Cornfield Landscape.",Creature,Cornfield,1,1,1,Entering Play,For the Glory! Booster Pack (FTG) - Common,Captain Taco.jpg
+Cardboard Mansion,Cardboard Mansion costs 1 less to play for every 5 cards in your Discard Pile. FLOOP >>> Gain 1 Action.,Building,Useless Swamp,5,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Cardboard Mansion.jpg
+Carmel Camel,"When a Creature you own leaves play, you may put it underneath this card instead. + 1 ATK and + 1 DEF for each card under this. When this card leaves play, discard all cards under it.",Creature,SandyLands,1,0,4,Trigger,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Carmel Camel.jpg
+Cave of Solitude,Discard a card >>> Your Creature in this Lane can't be targeted or attacked until the start of your next turn.,Building,NiceLands,2,,,,Princess Bubblegum's NiceLands Deck (CP3) - 1,Cave of Solitude.jpg
+Celestial Castle,Your Creature in this Lane has +3 DEF.,Building,Rainbow,1,,,,Jake's Cornfield Deck (CP1) - 1 : Finn's Blue Plains Deck (CP1) - 2 : BMO's Useless Swamp Deck (CP2) - 1 : Lady Rainicorns's SandyLands Deck (CP2) - 1 : Princess Bubblegum's NiceLands Deck (CP3) - 1 : Ice King's IcyLands Deck (CP4) - 1,Celestial Castle.jpg
+Celestial Fortress,The opposing Creature in this Lane has -2 DEF.,Building,Rainbow,1,,,,Cake's Cornfield Deck (CP6) - 2,Celestial Fortress.jpg
+Cerebral Bloodstorm,Deal 1 Damage to each opposing Creature.,Spell,Rainbow,1,,,,Finn's Blue Plains Deck (CP1) - 2 : Lady Rainicorn's SandyLand Deck (CP2) - 2,Cerebral Bloodstorm.jpg
+Charlie,"Once during your turn, you may move a Creature you control to an adjacent empty Landscape.",Hero,,,,,,Doubles Tournament (2v2) - 1,Charlie.jpg
+Charming City,All Creatures in this Lane lose their Landscape type and become Rainbow Creatures.,Building,Blue Plains,1,,,,Fionna's Blue Plains Deck (CP6) - 1,Charming City.jpg
+Chest Burster,"At the start of your turn, deal 3 Damage to each opponent who has no cards in hand.",Creature,Useless Swamp,1,1,10,Continuous,BMO's Useless Swamp Deck (CP2) - 2,Chest Burster.jpg
+Chocolate TaCody,"At the start of your Fight Phase, if there are 1 or more Frozen tokens in this Lane, deal 1 Damage to each Creature target player controls.",Creature,IcyLands,2,2,7,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Chocolate TaCody.jpg
+Chronomancer,"Each time Chronomancer changes Lanes, gain 1 Action.",Creature,Blue Plains,2,3,6,Trigger,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Chronomancer.jpg
+Clone,Play your next Creature or Building for free if a Creature or Building with that name is in play.,Spell,Rainbow,0,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 1",Clone.jpg
+Cloud Tower,Your Creature on this Landscape cannot be targeted by your foe's Spells or Creature abilities. FLOOP >>> Move a Creature you control to this Landscape.,Building,Blue Plains,2,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Cloud Tower.jpg
+Cold Soldier,+3 ATK while your opponent does not control a Creature in this Lane,Creature,IcyLands,1,2,4,Continuous,Ice King's IcyLands Deck (CP4) - 2,Cold Soldier.jpg
+Collaboration,"The first time you or your Teammate play a Rainbow Spell during their turn, the other Teammate may play a Rainbow Spell with the same cost without paying its cost.",Teamwork,Rainbow,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1 : Grand Prix's SandyLands/IcyLands Deck (2v2) - 1",Collaboration.jpg
+Communication,"The first time you or your Teammate play a Rainbow Spell during their turn, the other Teammate may play a Rainbow Spell with cost 0 during their turn, the other Teammate may copy it and may choose new targets.",Teamwork,Rainbow,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Communication.jpg
+Confectionary Ring,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.,Spell,NiceLands,1,,,,For the Glory! Booster Pack (FTG) - Common,Confectionary Ring.jpg
+Contribution,"At the start of your and your Teammate's Fight Phase, if you or your Teammate drew 3 or more cards this turn, the other Teammate may draw a card.",Teamwork,Blue Plains,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Contribution.jpg
+Convey Wisdom,Look at the top 4 cards of target player's deck and put them back in any order. Then draw a card.,Spell,Blue Plains,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Convey Wisdom.jpg
+Cool Dog,Your Creatures on adjacent Lanes may not be Attacked.,Creature,Blue Plains,2,2,7,Continuous,Finn's Blue Plains Deck (CP1) - 2,Cool Dog.jpg
+Cooperation,"At the start of your and your Teammate's Fight Phase, if they played no Creatures this turn, the other Teammate may play a Creature with cost 1 or less without paying its cost.",Teamwork,Cornfield,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Cooperation.jpg
+Coordination,"While you or your Teammate control a Creature on a Landscape with a Frozen token on it, your Team may play Creatures onto Landscapes with Frozen tokens on them.",Teamwork,IcyLands,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Coordination.jpg
+Corn Bat,Pay 1 Action >>> Deal 1 Damage to target Creature in this Lane for each different Landscape type you control.,Creature,Cornfield,1,2,7,Ignition,For the Glory! Booster Pack (FTG) - Rare,Corn Bat.jpg
+Corn Dog,"Corn Dog has +1 DEF for each Cornfield Landscape you control. If you control 3 or fewer Cornfield Landscapes, Corn Dog has +1 ATK",Creature,Cornfield,1,0,12,Continuous,Jake's Cornfield Deck (CP1) - 1,Corn Dog.jpg
+Corn Lord,Corn Lord has +1 ATK for each other Cornfield Creature you control.,Creature,Cornfield,1,0,7,Continuous,Jake's Cornfield Deck (CP1) - 1,Corn Lord.jpg
+Corn Ronin,+1 ATK for each adjacent Cornfield Landscape.,Creature,Cornfield,1,1,6,Continuous,Jake's Cornfield Deck (CP1) - 2,Corn Ronin.jpg
+Corn Scepter,Deal 1 Damage to target Creature for each Cornfield Landscape you control.,Spell,Rainbow,1,,,,Jake's Cornfield Deck (CP1) - 2,Corn Scepter.jpg
+Cornataur,"When Cornataur enters play, deal 1 Damage to your opponent for each Cornfield Landscape you control.",Creature,Cornfield,2,2,10,Entering Play,Jake's Cornfield Deck (CP1) - 2,Cornataur.jpg
+Corns Templar,FLOOP >>> Heal 1 Damage from Corns Templar.,Creature,Cornfield,1,1,7,FLOOP,Cake's Cornfield Deck (CP6) - 2,Corns Templar.jpg
+Cosmic Owl,Pay 1 Action >>> Look at the top 4 cards of you deck and rearrange them.,Hero,,,,,,Hero Pack #1 (HP1) - 1,Cosmic Owl.jpg
+Cotton Devil,+1 DEF for each different Landscape type you control.,Creature,NiceLands,2,4,1,Continuous,For the Glory! Booster Pack (FTG) - Common,Cotton Devil.jpg
+Cotton Eyebat,"While Cotton Eyebat has exactly 4 Damage on it, it has +4 ATK.",Creature,NiceLands,1,1,8,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 2,Cotton Eyebat.jpg
+Cottonpult,"FLOOP >>> Deal 1 Damage to target Creature. If Cottonpult has 5 or more Damage on it, it heals 1 Damage and readies.",Creature,NiceLands,1,1,8,FLOOP,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Cottonpult.jpg
+Cow,Moo.,Creature,Rainbow,0,1,5,None,Princess Bubblegum's NiceLands Deck (CP3) - 2,Cow.jpg
+Cowsper,Each adjacent Cornfield Creature has +1 DEF.,Creature,Cornfield,2,3,8,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Cowsper.jpg
+Crab Skull Island,"Pay 1 Action, FLOOP >>> If this Landscape is empty, reveal cards from the top of your deck until you reveal a Creature, then play it onto this Landscape for free and shuffle the other revealed cards into your deck.",Building,SandyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Crab Skull Island.jpg
+Crazy Cat Lady,Rainbow Creatures you control have +1 ATK.,Creature,Blue Plains,2,1,10,,Fionna's Blue Plains Deck (CP6) - 2,Crazy Cat Lady.jpg
+Cross Pollination,Each of your Cornfield Creatures has +1 ATK this turn for each different Landscape type you control.,Spell,Rainbow,2,,,,Jake's Cornfield Deck (CP1) - 1,Cross Pollination.jpg
+Crystal Palace,"When a Landscape in this Lane becomes Frozen, deal 2 Damage to target Creature.",Building,IcyLands,1,,,,Ice King's IcyLands Deck (CP4) - 1,Crystal Palace.jpg
+Cuddle Puddle,Friendly Creatures have +1 ATK until the start of the Fight Phase. Then each Creature deals Damage equal to its ATK to the opposing Creature in its Lane.,Spell,NiceLands,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Cuddle Puddle.jpg
+Cute Overload,Destroy any number of Creatures you control. Draw a card for each Creature destroyed this way.,Spell,Rainbow,0,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Cute Overload.jpg
+Cutie,FLOOP >>> You heal 1 Hit Point. (Can 't go over 25.),Creature,NiceLands,1,0,6,FLOOP,Princess Bubblegum's NiceLands Deck (CP3) - 2,Cutie Koala.jpg
+Cutie Koala,"While Cutie Koala has 4 or more Damage on it, it has +2 ATK.",Creature,NiceLands,1,1,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Cutie.jpg
+Dark Angel,+1 ATK for every 5 cards in your discard pile.,Creature,Useless Swamp,1,0,5,Continuous,BMO's Useless Swamp Deck (CP2) - 1,Dark Angel.jpg
+Davey Bones,Ghost has +2 ATK while defending against a Creature that is on a SandyLands Landscape.,Creature,Rainbow,0,1,4,Continuous,For the Glory! Booster Pack (FTG) - Common,Davey Bones.jpg
+Deforestation,Additional Cost: Floop a Creature you control. Search your deck for a Building and put it into play. Then shuffle your deck.,Spell,Cornfield,2,,,,Cake's Cornfield Deck (CP6) - 1,Deforestation.jpg
+Diamond Dan,"When Diamond Dan leaves play from a NiceLands Landscape, return it to its owner's hand.",Creature,SandyLands,1,2,2,Leaving Play,For the Glory! Booster Pack (FTG) - Common,Diamond Dan.jpg
+Djini Ghost,FLOOP >>> Pay 2 less to play your next Spell this Turn.,Creature,Blue Plains,1,1,6,FLOOP,For the Glory! Booster Pack (FTG) - Rare,Djini Ghost.jpg
+Dogboy,Discard a card >>> Dogboy has +2 ATK this turn. (Use only once during each of your turns.),Creature,Rainbow,0,0,5,Ignition,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Dogboy.jpg
+Domed Stronghold,Your Creature on this Landscape has +2 DEF and cannot be damaged by your foe's Spells.,Building,Blue Plains,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Domed Stronghold.jpg
+Dr. Death,Destroy a Creature you control and FLOOP >>> Destroy target opposing Creature in this Lane.,Creature,Useless Swamp,2,1,7,FLOOP,BMO's Useless Swamp Deck (CP2) - 1,Dr. Death.jpg
+Dr. Stuffenstein,"FLOOP >>> Heal 2 Damage from a Creature on an adjacent Landscape. If Dr. Stuffenstein has 5 or more Damage on it, heal 2 Damage from each of your Creatures instead.",Creature,NiceLands,2,1,9,FLOOP,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Dr. Stuffenstein.jpg
+Dragon Claw,FLOOP >>> Move a Creature you control to an empty Lane.,Creature,Blue Plains,1,1,8,FLOOP,Finn's Blue Plains Deck (CP1) - 2,Dragon Claw.jpg
+Dragon Foot,Discard a card >>> Dragon Foot has +1 ATK this turn. (Use up to five times during each of your turns.),Creature,Useless Swamp,1,1,5,Ignition,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Dragon Foot.jpg
+Dragoon Parrotrooper,"When Dragoon Parrotrooper enters play, move it to any empty Landscape. It cannot be replaced. Adjacent Creatures have - 1 ATK.",Creature,Rainbow,2,1,8,Entering Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Dragoon Parrotrooper.jpg
+Drained Cleric,"At the start of your turn, move Drained Cleric to an empty Landscape you control. If you cannot, discard a card.",Creature,Blue Plains,1,3,5,Trigger,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Drained Cleric.jpg
+Drooling Dude,"The ladies love him, as long as they have waterproof shoes.",Creature,Rainbow,2,3,9,None,Jake's Cornfield Deck (CP1) - 1,Drooling Dude.jpg
+Drop Zone,Return target Creature you own to your hand.,Spell,Rainbow,0,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Drop Zone.jpg
+Druid of the Cob,Flooped Creatures you control have +1 ATK.,Creature,Cornfield,1,1,8,Continuous,Cake's Cornfield Deck (CP6) - 2,Druid of the Cob.jpg
+Duet,Heal 1 Damage from a Creature you control and 1 Damage from a Creature you do not control.,Spell,Rainbow,0,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Duet.jpg
+Earth Mover,+2 ATK for each face-down Landscape in play.,Creature,Cornfield,2,2,10,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Earth Mover.jpg
+Elf Hut,Pay 1 Action >>> Draw a card for each Creature in this Lane.,Building,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Elf Hut.jpg
+Embarrassing Bard,FLOOP >>> Draw a card for each Flooped Creature you control (including this one).,Creature,Blue Plains,2,1,5,FLOOP,Finn's Blue Plains Deck (CP1) - 2,Embarrassing Bard.jpg
+Emboldened Retriever,"Each time Emboldened Retriever attacks, you may deal a card. Much ball. Wow.",Creature,Blue Plains,2,2,7,,Fionna's Blue Plains Deck (CP6) - 2,Emboldened Retriever.jpg
+Emperor Penguin,Creatures on Landscapes with a Frozen token on it have -1 ATK.,Creature,IcyLands,1,1,8,Continuous,Ice King's IcyLands Deck (CP4) - 2,Emperor Penguin.jpg
+Enchanted Celebration,"Move target Creature to an adjacent empty Landscape its controller controls. After playing this, you may put it into your Teammate's hand.",Spell,Rainbow,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Enchanted Celebration.jpg
+Endearing Elephant,"Each time Endearing Elephant is targeted by an opponent's Spell, deal 2 Damage to target opponent.",Creature,NiceLands,2,4,4,,Jake's Cornfield/NiceLands Deck (2v2) - 1 : Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Endearing Elephant.jpg
+Ethan Allfire,"When Ethan Allfire leaves play, draw 1 card for each Cornfield Landscapes you control.",Creature,Cornfield,1,0,4,Leaving Play,For the Glory! Booster Pack (FTG) - Rare,Ethan Allfire.jpg
+Evil Eye,Evil is in the eye of the beholder.,Creature,Rainbow,0,1,5,None,Jake's Cornfield Deck (CP1) - 1,Evil Eye.jpg
+Extraordinary Spider,"At the start of your turn, deal 1 Damage to target opponent for every 5 cards in your discard pile.",Creature,Useless Swamp,1,1,7,Continuous,BMO's Useless Swamp Deck (CP2) - 2,Extraordinary Spider.jpg
+Extreme High Five,"Heal or deal 1 Damage to target Creature. After playing this, you may put it into your Teammate's hand.",Spell,Rainbow,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1 : Grand Prix's SandyLands/IcyLands Deck (2v2) - 1",Extreme High Five.jpg
+Eye Guy,"At the start of your turn, look at the top card of your deck. You may put it on the bottom of your deck.",Creature,Useless Swamp,1,1,8,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Eye Guy.jpg
+Fairy Shepard,Each Adjacent NiceLands Creature has +2 DEF.,Creature,NiceLands,2,2,9,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 1,Fairy Shepard.jpg
+Falling Star,Creatures you control take no Damage from opposing Creatures this turn.,Spell,NiceLands,2,,,,Princess Bubblegum's NiceLands Deck (CP3) - 1,Falling Star.jpg
+Family Gathering,Choose another player and a Landscape you control. Draw a card for each of their Creatures that match that Landscape.,Spell,Rainbow,0,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Family Gathering.jpg
+Fancy Pants Gnome,FLOOP >>> Deal 1 Damage to each opposing Creature that is on a Cornfield Landscape.,Creature,Useless Swamp,1,1,6,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Fancy Pants Gnome.jpg
+Fancy Spa,"At the start of your Fight Phase, if you control an exhausted Creature on this Landscape, draw a card.",Building,Blue Plains,1,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Fancy Spa.jpg
+Fancy Zebracorn,+1 DEF for each different Landscape type you control.,Creature,Cornfield,1,2,4,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Fancy Zebracorn.jpg
+Farmhouse,Farmhouse counts as an additional Cornfield Landscape you control.,Building,Cornfield,1,,,,Cake's Cornfield Deck (CP6) - 1,Farmhouse.jpg
+Fatapillar,+2 ATK for every 5 cards in your discard pile.,Creature,Useless Swamp,2,0,3,Continuous,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Fatapillar.jpg
+Fatigued Librarian,"Fatigued Librarian comes into play exhausted and does not ready at the start of your turn. Whenever Fatigued Librarian changes Lanes, ready it.",Creature,Blue Plains,1,3,4,Trigger,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Fatigued Librarian.jpg
+Feedman,"When Feedman enters play, the next Creature you play this turn costs 1 less to play.",Creature,Cornfield,1,1,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Feedman.jpg
+Fellowship,"During your and your Teammate's Fight Phase, the first time Damage is deal to an opponent, the other Teammate may deal 1 Damage to target Creature in 1 of their Lanes.",Teamwork,NiceLands,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Fellowship.jpg
+Fiddling Ferret,"FLOOP >>> Draw a card, and then discard a card. If you discard a Rainbow card this way, gain 1 Action.",Creature,Blue Plains,1,1,6,FLOOP,Fionna's Blue Plains Deck (CP6) - 1,Fiddling Ferret.jpg
+Field of Nightmares,Deal 1 Damage to your opponent for each card in his hand.,Spell,Cornfield,1,,,,Jake's Cornfield Deck (CP1) - 2,Field of Nightmares.jpg
+Field Reaper,"Additional Cost: Discard a card. When Field Reaper enters play, move target Creature in this Lane to an adjacent empty Lane on your side.",Creature,Cornfield,2,1,4,Entering Play,Jake's Cornfield Deck (CP1) - 1,Field Reaper.jpg
+Field Stalker,"At the start of your turn, each player draws a card.",Creature,Cornfield,1,1,10,Continuous,Jake's Cornfield Deck (CP1) - 2,Field Stalker.jpg
+Finn,"Creatures you control take no Damage on them have ""FLOOP >>> Deal 1 Damage to target Creature.""",Hero,,,,,,Hero Pack #1 (HP1) - 1,Finn.jpg
+Fionna,"While you control only one Landscape type, your Rainbow Creatures have +1 ATK.",Hero,,,,,,Fionna's Blue Plains Deck (CP6) - 1,Fionna.jpg
+Firm Handshake,Deal 5 Damage to yourself and target opponent.,Spell,Rainbow,2,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Firm Handshake.jpg
+Fisher Fish,"If Fisher Fish enters play onto a Blue Plains Landscape, deal 2 Damage to each opposing player.",Creature,Useless Swamp,1,2,6,Entering Play,For the Glory! Booster Pack (FTG) - Common,Fisher Fish.jpg
+Floating Ice Palace,Your Creature on this Landscape has +1 ATK during your turn for each Landscape with a Frozen token on it.,Building,IcyLands,2,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Floating Ice Palace.jpg
+Fluffy Fox,"While Fluffy Fox has 4 or more Damage on it, it ignores the first 2 Damage dealt to it by opposing Creatures.",Creature,NiceLands,1,2,6,,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Fluffy Fox.jpg
+Fly Swatter,"FLOOP >>> Each opponent discards a card with cost 0, or reveals a hand with none.",Creature,Useless Swamp,1,1,6,FLOOP,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Fly Swatter.jpg
+Fountain of Tears,"While your Creature in this Lane has exactly 3 Damage on it, it has +3 ATK.",Building,Rainbow,0,,,,For the Glory! Booster Pack (FTG) - Rare,Fountain of Tears.jpg
+Four Star Fudge,"Each time a Landscape becomes Frozen, draw a card.",Creature,IcyLands,2,2,9,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Four Star Fudge.jpg
+Free Fall,Each of your Creatures has +1 ATK this turn for each Creature that entered play this turn.,Spell,SandyLands,1,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Free Fall.jpg
+Freeze Ray,Freeze target Landscape and then draw a card.,Spell,IcyLands,1,,,,Ice King's IcyLands Deck (CP4) - 2,Freeze Ray.jpg
+Freezing Point,Freeze each of your opponent's Landscapes.,Spell,IcyLands,2,,,,Ice King's IcyLands Deck (CP4) - 2,Freezing Point.jpg
+Friendship Bracelet,Swap any amount of Damage between two Creatures you control.,Spell,Rainbow,0,,,,Fionna's Blue Plains Deck (CP6) - 2,Friendship Bracelet.jpg
+Fright Tower,Pay 1 Action >>> Target Creature in this Lane has +1 ATK this turn for every 5 cards in your discard pile.,Building,Useless Swamp,1,,,,For the Glory! Booster Pack (FTG) - Common,Fright Tower.jpg
+Frost Dragon,Pay 1 Action >>> Freeze a Landscape in this Lane.,Creature,IcyLands,2,2,10,Ignition,Ice King's IcyLands Deck (CP4) - 2,Frost Dragon.jpg
+Frosted Deanimator,Frosted Deanimator may enter play onto a Landscape that has a Frozen token on it.,Creature,IcyLands,1,2,6,Entering Play,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Frosted Deanimator.jpg
+Frosted Snowwoman,"When Frosted Snowwoman enters play, Freeze both Landscapes in her Lane.",Creature,IcyLands,2,3,5,Entering Play,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Frosted Snowwoman.jpg
+Frosty Frolic,Target player discards 1 card from her hand for each Landscape with a Frozen token on it she controls.,Spell,IcyLands,2,,,,Ice King's IcyLands Deck (CP4) - 2,Frosty Frolic.jpg
+Frozen BanaNancy,"At the start of your Fight Phase, if there are one or more Frozen tokens in this Lane, deal 2 Damage to target opponent.",Creature,IcyLands,1,1,7,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Frozen BanaNancy.jpg
+Frozen Fish,"When Frozen Fish deals Damage to a Creature, you may Freeze a Landscape in this Lane.",Creature,IcyLands,1,1,8,Trigger,Ice King's IcyLands Deck (CP4) - 2,Frozen Fish.jpg
+Frozen Heart,"Deal 1 Damage to target Creature. If that Creature is on a Landscape with a Frozen token on it, deal 3 Damage instead.",Spell,Rainbow,0,,,,Ice King's IcyLands Deck (CP4) - 2,Frozen Heart.jpg
+Frozen Lemon Aid,Count the number of Landscapes with Frozen tokens. Heal 1 damage from that many friendly Creatures.,Spell,IcyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Frozen Lemon Aid.jpg
+Full Metal Racket,Deal 2 Damage to target Creature.,Spell,Rainbow,0,,,,For the Glory! Booster Pack (FTG) - Uncommon,Full Metal Racket.jpg
+FumiGator,"Pay 1 Action, FLOOP >>> Deal 1 Damage to each opposing Creature in play.",Creature,Useless Swamp,1,1,6,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,FumiGator.jpg
+Fummy,FLOOP >>> Gain 1 Action this turn.,Creature,SandyLands,1,2,7,FLOOP,Lady Rainicorn's SandyLand Deck (CP2) - 1,Fummy.jpg
+Funeral Home,"Whenever a foe discards a card, your Creature in this Lane has +1 ATK until the end of turn.",Building,Useless Swamp,1,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Funeral Home.jpg
+Furious Chick,Furious Chick has +1 ATK for each Damage on it.,Creature,Rainbow,0,0,5,Continuous,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Furious Chick.jpg
+Furious Furor,Target Creature has +2 ATK this turn for each Flooped Creature you control.,Spell,Cornfield,1,,,,Cake's Cornfield Deck (CP6) - 2,Furious Furor.jpg
+Furious Hen,Furious Hen has +1 ATK for each Damage on it.,Creature,NiceLands,2,0,10,Continuous,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Furious Hen.jpg
+Furious Rooster,Furious Rooster has +1 ATK for each Damage on it.,Creature,NiceLands,1,0,8,Continuous,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Furious Rooster.jpg
+Future Scholar,"When Future Scholar enters play, if it replaced a Creature, gain 1 Action.",Creature,Blue Plains,2,2,8,Entering Play,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Future Scholar.jpg
+Geomancer,"At the start of your turn, you may move Geomancer to an empty Landscape you control.",Creature,Blue Plains,1,2,6,,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Geomancer.jpg
+Ghost,Ghost has +2 ATK while defending against a Creature that is on a Useless Swamp Landscape.,Creature,Rainbow,0,1,4,Continuous,For the Glory! Booster Pack (FTG) - Common,Ghost Chest Burster.jpg
+Ghost Chest Burster,"When Ghost Chest Burster leaves play, draw the bottom card of your deck.",Creature,Useless Swamp,1,1,9,Leaving Play,For the Glory! Booster Pack (FTG) - Common,Ghost Hag.jpg
+Ghost Hag,Ghost Hag has +2 ATK while defending against a Creature that is on a Blue Plains Landscape.,Creature,Rainbow,0,1,4,Continuous,For the Glory! Booster Pack (FTG) - Common,Ghost Ninja.jpg
+Ghost Ninja,"When Ghost Ninja deals Damage to an opposing player, that opponent can't play Spells during his next turn.",Creature,Blue Plains,1,2,7,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Ghost Tree.jpg
+Ghost Tree,Ghost Tree has +2 ATK while defending against a Creature that is on a Cornfield Landscape.,Creature,Rainbow,0,1,4,Continuous,For the Glory! Booster Pack (FTG) - Common,Ghost.jpg
+Giant Mummy Hand,FLOOP >>> Deal 1 Damage to target Creature for each Cornfield Landscape adjacent to this Lane.,Creature,SandyLands,1,0,7,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Giant Mummy Hand.jpg
+Giddy Giraffe,"While Giddy Giraffe has 4 or more Damage on it, it deal Damage directly to your opponent instead of the opposing Creature.",Creature,NiceLands,1,1,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2 : Charlie's Blue Plains/NiceLands Deck (2v2) - 2",Giddy Giraffe.jpg
+Glacier Racer,+4 ATK if both Landscapes in this Lane have Frozen tokens on them.,Creature,IcyLands,1,2,6,Continuous,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Glacier Racer.jpg
+Glorious Gramophone,"Draw 4 cards, then discard 2 cards.",Spell,Blue Plains,1,,,,Fionna's Blue Plains Deck (CP6) - 2,Glorious Gramophone.jpg
+Gnome Snot,Draw 3 cards.,Spell,Blue Plains,1,,,,Finn's Blue Plains Deck (CP1) - 2,Gnome Snot.jpg
+Goat,"When Goat enters play, if it replaced a Creature, draw a card.",Creature,Rainbow,0,1,4,Entering Play,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Goat.jpg
+Gold Ninja,"When Gold Ninja enters play, deal 1 Damage to target Creature for each different Landscape type you control.",Creature,Cornfield,1,1,2,Entering Play,For the Glory! Booster Pack (FTG) - Common,Gold Ninja.jpg
+Golden Axe Stump,"Whenever an opponent draws a card, deal 1 Damage to that player.",Creature,SandyLands,1,1,7,Continuous,For the Glory! Booster Pack (FTG) - Rare,Golden Axe Stump.jpg
+Golden Jackal,FLOOP and discard a SandyLands card >>> Deal 1 Damage to each opposing Creature.,Creature,Cornfield,1,1,4,FLOOP,For the Glory! Booster Pack (FTG) - Common,Golden Jackal.jpg
+Granary Weevil,Destroy Granary Weevil >>> Destroy target opposing Creature in this Lane and any Creature with the same name in play.,Creature,Useless Swamp,2,2,6,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Granary Weevil.jpg
+Grand Mummy,"At the start of your turn, you may return Grand Mummy to its owner's hand. If you do, draw two cards.",Creature,SandyLands,1,3,3,Trigger,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Grand Mummy.jpg
+Grand Prix,"Once during your turn, you may put a Creature you played this turn back into your hand, then play it for free and put 3 Damage on it.",Hero,,,,,,Doubles Tournament (2v2) - 1,Grand Prix.jpg
+Grape Butt,Play only if you played a non-Cornfield card this turn. Deal 5 Damage to target Creature.,Spell,Cornfield,1,,,,For the Glory! Booster Pack (FTG) - Rare,Grape Butt.jpg
+Grape Djini,"When Grape Djini enters play, if it replaced a Creature, you may put a card from your discard pile on top of your deck.",Creature,Blue Plains,1,1,6,Entering Play,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Grape Djini.jpg
+Gray Eyebat,Pay 1 Action >>> Return a random Useless Swamp Creature from your discard pile to your hand.,Creature,Useless Swamp,1,2,7,Ignition,BMO's Useless Swamp Deck (CP2) - 2,Gray Eyebat.jpg
+Green Cactiball,+2 ATK for each Green Cactiball you control.,Creature,SandyLands,1,0,4,Continuous,Lady Rainicorn's SandyLand Deck (CP2) - 2,Green Cactiball.jpg
+Green Candy,Heal or deal 1 Damage to target Creature.,Spell,Rainbow,0,,,,Princess Bubblegum's NiceLands Deck (CP3) - 2,Green Candy.jpg
+Green Gnome,FLOOP >>> Deal 1 Damage to each opposing Creature that is on a Blue Plains Landscape.,Creature,SandyLands,1,1,6,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Green Gnome.jpg
+Green Mermaid,Destroy Green Mermaid >>> Deal 1 Damage to each opposing Creature.,Creature,Useless Swamp,1,1,9,Ignition,BMO's Useless Swamp Deck (CP2) - 2,Green Mermaid.jpg
+Green Merman,"FLOOP >>> Put the top card of your deck into your discard pile, Deal Damage to each opposing Creature equal to the discarded card's Action Cost.",Creature,Useless Swamp,2,0,6,FLOOP,BMO's Useless Swamp Deck (CP2) - 1,Green Merman.jpg
+Green Party Ogre,"When a Creature you control leaves play, heal 1 Damage from Green Party Ogre.",Creature,SandyLands,1,1,8,Continuous,For the Glory! Booster Pack (FTG) - Common,Green Party Ogre.jpg
+Green Snakey,"When Green Snakey leaves play, deal 1 Damage to target Creature in this Lane.",Creature,SandyLands,1,1,6,Leaving Play,For the Glory! Booster Pack (FTG) - Common,Green Snakey.jpg
+Green ZebraCorn,"When Green ZebraCorn attacks, deal 1 Damage to target opponent.",Creature,Cornfield,1,1,6,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Green ZebraCorn.jpg
+Grizzled ZebraCorn,"When Grizzled ZebraCorn attacks, deal 2 Damage to target opponent.",Creature,Cornfield,2,2,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Grizzled ZebraCorn.jpg
+Gunter,"Creatures you control on Landscapes with Frozen tokens have +1 ATK.
+",Hero,,,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Gunter.jpg
+Ham Fist,Target Creature you control has -5 ATK this turn. Draw a card.,Spell,Rainbow,0,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Ham Fist.jpg
+Harvest Moon,Put a Building from your discard pile into play.,Spell,Cornfield,2,,,,Cake's Cornfield Deck (CP6) - 1,Harvest Moon.jpg
+Haybarn,"Pay 1 Action, FLOOP >>> If this Landscape is empty, play a ""Feedman"" from your discard pile onto this Landscape for free. If Haybarn leaves play, destroy the Feedman on its Landscape.",Building,Cornfield,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Haybarn.jpg
+Headphone Jerk,"When Headphone Jerk enters play, if it replaced a Creature, deal 3 Damage to another Creature in this Lane.",Creature,Blue Plains,2,2,7,Entering Play,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Headphone Jerk.jpg
+Heavenly Gazer,FLOOP >>> Put a Spell from your discard pile on top of your deck.,Creature,Blue Plains,1,2,5,FLOOP,Finn's Blue Plains Deck (CP1) - 1,Heavenly Gazer.jpg
+Helping Hand,FLOOP >>> Return a Building from your discard pile to your hand.,Creature,Rainbow,0,1,4,FLOOP,Cake's Cornfield Deck (CP6) - 2,Helping Hand.jpg
+Herculeye,Discard a card >>> Herculeye has +4 ATK this turn. (Use only once during each of your turns.),Creature,Useless Swamp,2,1,6,Ignition,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Herculeye.jpg
+Hot Eyebat,Play Hot Eyebat only if you have 10 or more cards in your discard pile.,Creature,Useless Swamp,1,4,4,Continuous,BMO's Useless Swamp Deck (CP2) - 2,Hot Eyebat.jpg
+Hug It Out,"Destroy target Creature you control, and then destroy target Creature in its Lane.",Spell,NiceLands,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Hug It Out.jpg
+Huggable Hedgehog,"While Huggable Hedgehog has 4 or more Damage on it, it deals Damage directly to your opponent instead of the opposing Creature.",Creature,NiceLands,2,3,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Huggable Hedgehog.jpg
+Hunkclops,,Creature,Rainbow,1,3,3,,Cake's Cornfield Deck (CP6) - 2,Hunkclops.jpg
+Huntress Wizard,"At the start of the game, choose a word with 3 or more letters. Whenever you play a card with that word in its name, deal 1 Damage to target Creature an opponent controls.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Huntress Wizard.jpg
+Husker Amulet,Each of your Creature has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.,Spell,Cornfield,1,,,,For the Glory! Booster Pack (FTG) - Common,Husker Amulet.jpg
+Husker Champion,Husker Champion has +2 ATK and +2 DEF if you control a Building on this Landscape.,Creature,Cornfield,1,1,4,Continuous,Cake's Cornfield Deck (CP6) - 2,Husker Champion.jpg
+Husker Garrison,Your Creature on this Landscape has +1 ATK and +1 DEF for each Cornfield Creature you control.,Building,Cornfield,2,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Husker Garrison.jpg
+Husker Knight,Husker Knight has +1 ATK and +2 DEF for each Cornfield Landscape you control.,Creature,Cornfield,2,X,X,Continuous,Jake's Cornfield Deck (CP1) - 2 : For the Glory! Booster Pack (FTG) - Uncommon,Husker Knight.jpg
+Husker Valkyrie,Husker Valkyrie has +2 ATK and +2 DEF if you control a Building on this Landscape.,Creature,Cornfield,2,2,6,Continuous,Cake's Cornfield Deck (CP6) - 2,Husker Valkyrie.jpg
+Husker Worm,"When Husker Worm enters play, flip a Cornfield Landscape you control face down.",Creature,Cornfield,1,5,4,Entering Play,Jake's Cornfield Deck (CP1) - 2,Husker Worm.jpg
+Husky Parrotrooper,"When Husky Parrotrooper enters play, move it to any empty Landscape, and then flip that Landscape face down.",Creature,Rainbow,2,2,4,Entering Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Husky Parrotrooper.jpg
+Hydromancer,"When Hydromancer enters into play, you may reveal cards from the top of your deck until you reveal a Teamwork, and then play it for free. Shuffle the other revealed cards into your deck.",Creature,Blue Plains,2,3,6,Entering Play,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Hydromancer.jpg
+Ice Base,"When Ice Base enters play, Freeze both Landscapes in this Lane. You may play Creatures onto this Landscape even while Frozen.",Building,IcyLands,2,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Ice Base.jpg
+Ice Cream Captain,Ice Cream Captain costs 1 less to play for each player that has a Landscape with a Frozen token on it.,Creature,IcyLands,4,4,8,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Ice Cream Captain.jpg
+Ice Cream Sammy,"Pay 1 Action, FLOOP >>> Choose a Lane, Freeze both Landscapes in that Lane.",Creature,IcyLands,1,2,7,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,Ice Cream Sammy.jpg
+Ice King,"The first time a Creature you control attacks down an empty Lane during each of your turns, it has +1 ATK.",Hero,,,,,,Ice King's IcyLands Deck (CP4) - 1,Ice King.jpg
+Ice Sing,Freeze 1 of each player's target Landscapes and then draw a card.,Spell,IcyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Ice Sing.jpg
+Icemeister,"At the start of your turn, deal 1 Damage to each Creature on a Landscape with a Frozen token on it.",Creature,IcyLands,2,1,10,Continuous,Ice King's IcyLands Deck (CP4) - 2,Icemeister.jpg
+Ice-olation Cell,Creatures on Landscapes with a Frozen token on it in this Lane cannot Attack or use abilities.,Building,IcyLands,1,,,,Ice King's IcyLands Deck (CP4) - 1,Ice-olation Cell.jpg
+Icy Commando,Icy Commando has +1 ATK for each Landscape with a Frozen token on it.,Creature,IcyLands,1,1,7,Continuous,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Icy Commando.jpg
+Icy Infiltrator,"When Icy Infiltrator enters play, Freeze its Landscape.",Creature,Rainbow,0,1,5,Entering Play,Gunter's Blue Plains/IcyLands Deck (CP5) - 2 : Grand Prix's SandyLands/IcyLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,Icy Infiltrator.jpg
+Icy Intruder,"Pay 1 Action, FLOOP >>> Freeze target Landscape.",Creature,IcyLands,1,1,8,FLOOP,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Icy Intruder.jpg
+Igloo of Sanctuary,"FLOOP >>> If your Creature in this Lane moved here from another Lane this turn, it has +3ATK this turn.",Building,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Igloo of Sanctuary.jpg
+Immortal Maize Walker,"While Immortal Maize Walker is on a Cornfield Landscape, it deals triple Damage.",Creature,Useless Swamp,2,2,8,Continuous,BMO's Useless Swamp Deck (CP2) - 2 : For the Glory! Booster Pack (FTG) - Common,Immortal Maize Walker.jpg
+Impossible Possum,"When this card is placed into your discard pile from anywhere, you may discard a card from your hand to return Impossible Possum to your hand.",Creature,Blue Plains,2,2,8,,Fionna's Blue Plains Deck (CP6) - 2,Impossible Possum.jpg
+Incredible Egg,Reveal the top 2 cards of your deck. You may put a revealed Cornfield card into your hand. Discard the rest.,Spell,Rainbow,0,,,,For the Glory! Booster Pack (FTG) - Common,Incredible Egg.jpg
+Industrial Assassin,"Destroy a Creature you control, FLOOP >>> Draw a card.",Creature,Blue Plains,1,2,6,FLOOP,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Industrial Assassin.jpg
+Infant Scholar,"If you played one or more Rainbow cards this turn, Infant Scholar has +3 ATK this turn.",Creature,Blue Plains,1,1,6,,Fionna's Blue Plains Deck (CP6) - 2,Infant Scholar.jpg
+Infinite Figure,Discard a card >>> Deal 1 Damage to another Creature in this Lane. (Use any number of times during each of your turns.),Creature,Useless Swamp,1,1,6,Ignition,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Infinite Figure.jpg
+Infinite Haymaker,"Deal damage to yourself equal to target Creature's remaining DEF, then destroy it.",Spell,Cornfield,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Infinite Haymaker.jpg
+InstiGator,"When InstiGator enters play, move target opposing Creature into InstiGator's Lane (if empty).",Creature,Useless Swamp,2,5,3,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,InstiGator.jpg
+InvestiGator,"FLOOP >>> Reveal the top 3 cards of your deck. Play a revealed Teamwork for free, and then discard the other cards.",Creature,Useless Swamp,2,3,8,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,InvestiGator.jpg
+IrriGator,"While IrriGator is on an Icylands Landscape, it has +2 ATK.",Creature,Useless Swamp,1,1,5,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,IrriGator.jpg
+Jake,Creatures on facedown Landscapes you control have +2 ATK.,Hero,,,,,,Hero Pack #1 (HP1) - 1,Jake.jpg
+Jake [Doubles Tournament],"Once during your turn, when a Creature you control damages an opponent, you may deal 1 Damage to target Creature in one of your Lanes.",Hero,,,,,,Doubles Tournament (2v2) - 1,Jake [Doubles Tournament].jpg
+Jinx,"Choose two players. Each reveals a random card from their hand. If their costs don't match, they discard those cards.",Spell,Rainbow,0,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Jinx.jpg
+Jinxed Parrotrooper,"When Jinxed Parrotrooper enters play, move it to any empty Landscape. It cannot be replaced. At the start of your turn, discard a card.",Creature,Rainbow,1,1,5,Entering Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Jinxed Parrotrooper.jpg
+Kernel Queen,Kernel Queen has +1 ATK for each Flooped Creature you control.,Creature,Cornfield,1,1,6,Continuous,Cake's Cornfield Deck (CP6) - 1,Kernel Queen.jpg
+King Baby,"Pay 1 Action, FLOOP >>> Deal 1 Damage to target Creature for each Cornfield Landscape you control.",Creature,Cornfield,2,2,7,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",King Baby.jpg
+Knit Kitty,Knit Kitty is affected by Buildings on adjacent Landscapes.,Creature,NiceLands,2,3,7,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Knit Kitty.jpg
+Kung Fu Power,"Ready 1 Creature of each type you control. (The types are Cornfield, Rainbow, Useless Swamp, Blue Plains, NiceLands and SandyLands.)",Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Rare,Kung Fu Power.jpg
+Lady Beetle,"At the start of your turn, you may return a Creature you control with 2 or fewer DEF remaining to its owner's hand.",Creature,SandyLands,1,1,9,Trigger,For the Glory! Booster Pack (FTG) - Rare,Lady Beetle.jpg
+Lady Rainicorn,"If you return two or more Creatures to your hand from play or your discard pile during your turn, heal 2 HP.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Lady Rainicorn.jpg
+Learning Center,Learning Center gains the game text of Buildings you control in adjacent Lanes (but not their names).,Building,Blue Plains,2,,,,Fionna's Blue Plains Deck (CP6) - 1,Learning Center.jpg
+Legion of Earlings,"When Legion of Earlings enters play, you may return target Creature in this Lane to its owner's hand.",Creature,Cornfield,2,2,8,Entering Play,Jake's Cornfield Deck (CP1) - 2,Legion of Earlings.jpg
+Lemongrab,"At the start of your Fight Phase, if you have 1 or more empty Landscapes, gain 1 HP. (Can't go over 25.)",Hero,,,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Lemongrab.jpg
+Life Beater Gnome,FLOOP >>> Deal 1 Damage to each opposing Creature that is on a SandyLands Landscape.,Creature,NiceLands,1,1,6,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Life Beater Gnome.jpg
+Lifeguard Lobster,"Each time another creature enters play during your turn, you must heal 1 Damage from another Creature.",Creature,SandyLands,2,2,9,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2,Lifeguard Lobster.jpg
+Lime Slimey,"If you control 3 or more different Landscape types when Lime Slimey enters play, draw 2 cards.",Creature,SandyLands,1,2,6,Entering Play,For the Glory! Booster Pack (FTG) - Uncommon,Lime Slimey.jpg
+Little Freezy,+1 DEF for each different Landscape type you control.,Creature,Blue Plains,2,4,1,Continuous,For the Glory! Booster Pack (FTG) - Common,Little Freezy.jpg
+Log Knight,FLOOP >>> Put a Building from your hand below this Lane. (If it doesn't already have one.),Creature,Cornfield,1,2,2,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Log Knight.jpg
+Log Rhythm,Each Creature you control with a Building on its Landscape had +2 ATK this turn.,Spell,Cornfield,1,,,,Cake's Cornfield Deck (CP6) - 2,Log Rhythm.jpg
+Lonely Panda,"When Lonely Panda enters play, if you control no other Creatures, draw a card.",Creature,Blue Plains,1,1,8,,Fionna's Blue Plains Deck (CP6) - 2,Lonely Panda.jpg
+Longboard Lobster,+1 ATK for each Useless Swamp Landscapes in play.,Creature,SandyLands,2,1,7,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Longboard Lobster.jpg
+Lost Golem,Lost Golem costs 1 less to play for each other Creature you have played this turn.,Creature,SandyLands,3,5,6,Continuous,Lady Rainicorn's SandyLand Deck (CP2) - 1,Lost Golem.jpg
+Loveable Lamb,"At the start of your turn, if Loveable Lamb has 4 or more Damage on it, deal 2 Damage to target opposing Creature in this Lane.",Creature,NiceLands,1,2,7,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2 : Charlie's Blue Plains/NiceLands Deck (2v2) - 1",Loveable Lamb.jpg
+Lt. Mushroom,"When Lt. Mushroom leaves play during an opponent's turn, that opponent discards 3 cards.",Creature,Useless Swamp,1,2,3,Leaving Play,For the Glory! Booster Pack (FTG) - Rare,Lt. Mushroom.jpg
+Lucky Penny,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.,Spell,SandyLands,1,,,,For the Glory! Booster Pack (FTG) - Common,Lucky Penny.jpg
+Lumbercaddy,FLOOP >>> Move target Building you control to any Landscape without one.,Creature,Cornfield,1,2,6,FLOOP,Cake's Cornfield Deck (CP6) - 2,Lumbercaddy.jpg
+Lumpy Space Princess,"The first time you replace a Creature on your turn, draw a card.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Lumpy Space Princess.jpg
+Lunchpad,FLOOP >>> Draw a card for each Creature that entered play onto this Landscape this turn.,Building,SandyLands,2,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Lunchpad.jpg
+Mace Stump,Destroy Mace Stump >>> Target opponent discards a card for every 5 cards in your discard pile.,Creature,Useless Swamp,1,3,3,Ignition,BMO's Useless Swamp Deck (CP2) - 2,Mace Stump.jpg
+Magenapping,Play only if you control one or fewer Creatures and have 15 or fewer Hit Points. Move target Creature to target empty Landscape you control.,Spell,Blue Plains,2,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Magenapping.jpg
+Magic Lamp,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.,Spell,Useless Swamp,1,,,,For the Glory! Booster Pack (FTG) - Common,Magic Lamp.jpg
+Magic Man,"When you play a card with cost exactly 2, deal 2 Damage to a Creature an opponent controls.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Magic Man.jpg
+Magic Ring Ding,Each of your Creatures has +1 ATK this turn for every 5 cards in your discard pile.,Spell,Useless Swamp,2,,,,BMO's Useless Swamp Deck (CP2) - 2,Magic Ring Ding.jpg
+Mantle Masher,"When Mantle Masher enters play, flip a Landscape in this Lane face down. When Mantle Masher leaves play, flip it face up.",Creature,Cornfield,1,1,6,Entering Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Mantle Masher.jpg
+Man-Witch,"Whenever a foe discards a card, deal 1 Damage to that foe.",Creature,Useless Swamp,2,1,11,Continuous,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Man-Witch.jpg
+Marceline,Your Creatures with 5 or more Damage on them have +1 ATK.,Hero,,,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,Marceline.jpg
+Master of Disguise,Each of your opponent's Creatures has -1 ATK this turn.,Spell,Rainbow,1,,,,For the Glory! Booster Pack (FTG) - Common,Master of Disguise.jpg
+Matchy Matchy,"Discard the top 2 cards of your deck. If they have the same cost, deal Damage equal to their combined cost to target opponent. After playing this, you may put it into your Teammate's hand.",Spell,Rainbow,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Matchy Matchy.jpg
+Mausoleum,Your Creature in this Lane has +1 DEF for every 5 cards in your discard pile.,Building,Useless Swamp,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Mausoleum.jpg
+Mint Chocouflage,"While there is no opposing Creature in this Lane, Mint Chocouflage can't be damaged by your opponent's Spells or Creature abilities.",Creature,IcyLands,1,3,3,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2,Mint Chocouflage.jpg
+Mocha Launcher,"Pay 1 Action, FLOOP >>> Deal 2 Damage to target Creature. If that Creature is destroyed this way, Freeze the Landscape it is on.",Creature,IcyLands,1,0,4,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Mocha Launcher.jpg
+Moniker,"Once during your turn, you may ready a Flooped Creature.",Hero,,,,,,Doubles Tournament (2v2) - 1,Moniker.jpg
+Mouthball,+2 DEF for every 5 cards in your discard pile.,Creature,Useless Swamp,1,2,4,Continuous,BMO's Useless Swamp Deck (CP2) - 2,Mouthball.jpg
+Ms. Fluff,"While Ms. Fluff has exactly 7 Damage on it, it has +7 ATK.",Creature,NiceLands,2,2,10,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 1,Ms. Fluff.jpg
+Ms. Mummy,"At the start of you turn, you may return Ms. Mummy to its owner's hand. If you do, target SandyLands Creature you control gains 1 DEF.",Creature,Rainbow,0,1,4,Trigger,Lady Rainicorn's SandyLand Deck (CP2) - 1 : For the Glory! Booster Pack (FTG) - Uncommon,Ms. Mummy.jpg
+Music Mallard,"FLOOP >>> Draw a card. If Music Mallard has 5 or more Damage on it, draw an additional card.",Creature,NiceLands,1,0,9,FLOOP,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Music Mallard.jpg
+Musical Chair,Swap up to 2 of your Landscapes with ones from outside of the game.,Spell,Rainbow,0,,,,For the Glory! Booster Pack (FTG) - Uncommon,Musical Chair.jpg
+NaviGator,Discard a card >>> NaviGator gets +ATK equal to the cost of the discarded card. (Use only once during each of your turns.),Creature,Useless Swamp,1,2,6,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,NaviGator.jpg
+Necromancer,"Each time a Creature you control leaves play, you may move Necromancer to that Creature's empty Landscape.",Creature,Blue Plains,1,1,8,Trigger,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Necromancer.jpg
+Nice Ice Baby,+3 ATK while your opponent does not control a Creature in this Lane.,Creature,Rainbow,0,1,2,Continuous,Finn's Blue Plains Deck (CP1) - 2 : Ice King's IcyLands Deck (CP4) - 2,Nice Ice Baby.jpg
+Nice Windmill,Pay 1 Action >>> Heal or deal up to 2 Damage to your Creature in this Lane.,Building,NiceLands,1,,,,For the Glory! Booster Pack (FTG) - Uncommon,Nice Windmill.jpg
+Niceasaurus Rex,"At the start of your turn, if Niceasaurus Rex has Damage on it, draw a card.",Creature,NiceLands,1,2,7,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 2,Niceasaurus Rex.jpg
+Night Tower,FLOOP >>> If your opponent has no Creature in this Lane they discard a card.,Building,Useless Swamp,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Night Tower.jpg
+Ogre Braces,You heal 1 Hit Point for every 5 cards in your discard pile.,Spell,Useless Swamp,1,,,,For the Glory! Booster Pack (FTG) - Common,Ogre Braces.jpg
+Ogre Gas,Reveal the top 3 cards of your deck. Put one of them on the bottom of your deck and discard the rest.,Spell,Rainbow,0,,,,BMO's Useless Swamp Deck (CP2) - 2,Ogre Gas.jpg
+Oil Refinery,Your Creature on this Landscape has +2 DEF for each Oil Refinery you control.,Building,Blue Plains,2,,,,Fionna's Blue Plains Deck (CP6) - 2,Oil Refinery.jpg
+Ol' Corn Eye,+1 DEF for each different Landscape type you control.,Creature,Cornfield,2,4,1,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1 : For the Glory! Booster Pack (FTG) - Rare,Ol' Corn Eye.jpg
+Orange Slimey,"If you control 3 or more different Landscape types when Orange Slimey enters play, deal 3 Damage to your opponent.",Creature,Useless Swamp,1,2,6,Entering Play,For the Glory! Booster Pack (FTG) - Uncommon,Orange Slimey.jpg
+Overstuffed Orangutan,"While Overstuffed Orangutan has 4 or more Damage on it, double its ATK.",Creature,NiceLands,2,2,8,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Overstuffed Orangutan.jpg
+Palace of Bone,Opposing Creatures in this Lane don't trigger entering or leaving play effects.,Building,Useless Swamp,1,,,,BMO's Useless Swamp Deck (CP2) - 1,Palace of Bone.jpg
+Paladim,Each Creature that changed Lanes this turn has +3 ATK this turn. (Opposing Creatures do not benefit from this.),Creature,Blue Plains,2,3,7,Continuous,For the Glory! Booster Pack (FTG) - Common,Paladim.jpg
+Pants of Awesome,"Move target Creature you control to an empty Blue Plains Landscape you control, and then draw a card.",Spell,Blue Plains,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Pants of Awesome.jpg
+Papercut Tiger,"While Papercut Tiger has exactly 5 Damage on it, it has +5 ATK.",Creature,NiceLands,2,2,9,Continuous,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Papercut Tiger.jpg
+Parrotmilitary Outpost,Each Creature in this Lane has -1 ATK (min 0).,Building,Rainbow,0,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Parrotmilitary Outpost.jpg
+Patched Puppy,Deal 3 Damage to Patched Puppy >>> Patched Puppy has +2 ATK this turn.,Creature,NiceLands,2,3,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Patched Puppy.jpg
+Patchwork,Redistribute the Damage on Creatures you control (no Creature can have more Damage than DEF).,Spell,NiceLands,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Patchwork.jpg
+Patchy the Pumpkin,FLOOP >>> Deal 1 Damage to target Creature. Do this once for each Cornfield Landscape you control. (May only target each Creature once.),Creature,Cornfield,1,0,5,FLOOP,Jake's Cornfield Deck (CP1) - 2,Patchy the Pumpkin.jpg
+Patriot Popsicle,"When Patriot Popsicle enters play, you may Freeze a Landscape in this Lane.",Creature,IcyLands,1,1,6,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,Patriot Popsicle.jpg
+Peach Djinni,"When a SandyLands Creature enters play under your control, Peach Djinni has +1 ATK this turn.",Creature,Rainbow,0,0,6,Trigger,Lady Rainicorn's SandyLand Deck (CP2) - 2,Peach Djinni.jpg
+Pentacutie,Opponents can't play 0 cost cards.,Creature,Blue Plains,2,3,8,Continuous,For the Glory! Booster Pack (FTG) - Rare,Pentacutie.jpg
+Pentaid,Heal exactly 5 Damage from target Creature you control (no more and no less).,Spell,NiceLands,1,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Pentaid.jpg
+Phyllis,"While her blade distracts you, her purse swings in for the whammy.",Creature,Rainbow,1,2,7,None,Jake's Cornfield Deck (CP1) - 1,Phyllis.jpg
+Pickler,Sacrifice Pickler >>> Deal 3 Damage to target Creature.,Creature,Useless Swamp,2,2,9,Ignition,For the Glory! Booster Pack (FTG) - Uncommon,Pickler.jpg
+Pieclops,"When Pieclops enters play, heal 1 Damage from each adjacent Creature.",Creature,NiceLands,1,2,7,Entering Play,Princess Bubblegum's NiceLands Deck (CP3) - 2,Pieclops.jpg
+Pied Piper,"When Pied Piper attacks an opposing Creature, you may have a Flooped Creature you control attack it instead.",Creature,Cornfield,2,1,9,,Cake's Cornfield Deck (CP6) - 2,Pied Piper.jpg
+Piestorm,Each of your Creatures with no Damage has +2 ATK this turn.,Spell,NiceLands,1,,,,Princess Bubblegum's NiceLands Deck (CP3) - 2,Piestorm.jpg
+Pillow Fortress,"Pay 1 Action, FLOOP >>> Heal 2 or deal 2 Damage to a Creature you control on this Landscape. Do the same to another friendly Creature.",Building,NiceLands,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Pillow Fortress.jpg
+Pink Candy,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.,Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Pink Candy.jpg
+Pink Merwitch,Discard a card >>> Deal 1 Damage to each opposing Creature. (Use only once during each of your turns.),Creature,Useless Swamp,2,2,8,Ignition,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Pink Merwitch.jpg
+Pirate Bear,"While Pirate Bear is on a Useless Swamp Landscape, it deals triple Damage.",Creature,Cornfield,1,1,3,Continuous,For the Glory! Booster Pack (FTG) - Common,Pirate Bear.jpg
+Polterclops,+1 DEF for each different Landscape type you control.,Creature,SandyLands,2,4,1,Continuous,For the Glory! Booster Pack (FTG) - Common,Polterclops.jpg
+Pony,,Creature,Rainbow,0,1,5,,Fionna's Blue Plains Deck (CP6) - 2,Pony.jpg
+Popcorn Butteredfly,FLOOP >>> Draw a card for each Building you control.,Creature,Cornfield,1,1,5,FLOOP,Cake's Cornfield Deck (CP6) - 2,Popcorn Butteredfly.jpg
+Popcorn Power,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.,Spell,Cornfield,1,,,,For the Glory! Booster Pack (FTG) - Common,Popcorn Power.jpg
+Portal of Unsummoning,Return target Creature to its owner's hand.,Spell,SandyLands,2,,,,For the Glory! Booster Pack (FTG) - Rare,Portal of Unsummoning.jpg
+Portal to Nowhere,Move 1 of your opponent's Creatures to an adjacent empty Lane (on his side).,Spell,SandyLands,1,,,,For the Glory! Booster Pack (FTG) - Common,Portal to Nowhere.jpg
+Princess Bubblegum,"Once per turn, you may deal 1 Damage to one of your Creatures. That Creature has +1 ATK this turn.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Princess Bubblegum.jpg
+Prismo,"If you have no matching Landscapes, your Creatures have +1 DEF.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Prismo.jpg
+Psionic Architect,"When Psionic Architect enters play, you may ready a Flooped Creature you control.",Creature,Blue Plains,1,2,6,Entering Play,Finn's Blue Plains Deck (CP1) - 2,Psionic Architect.jpg
+Psionic Swashbuckler,"When Psionic Swashbuckler enters play, you may deal 3 Damage to target Flooped Creature",Creature,Blue Plains,1,2,6,,Fionna's Blue Plains Deck (CP6) - 2,Psionic Swashbuckler.jpg
+Psychic Tempest,Return all Creatures in play you own to your hand. (This includes stolen Creatures.),Spell,SandyLands,1,,,,For the Glory! Booster Pack (FTG) - Rare,Psychic Tempest.jpg
+Puma Paw,Ready a Flooped Creature you control. It has +2 ATK this turn.,Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Puma Paw.jpg
+Punk Cat,Each Creature that changed Lanes this turn has +2 ATK this turn.,Creature,Blue Plains,1,2,6,Continuous,Finn's Blue Plains Deck (CP1) - 2,Punk Cat.jpg
+Puppy Parade,Heal 2 Damage from each Creature you control. Creatures you control lose their Landscape type and become Rainbow Creatures this turn.,Spell,Blue Plains,2,,,,Fionna's Blue Plains Deck (CP6) - 1,Puppy Parade.jpg
+Pyramidia,"FLOOP >>> If you control a Creature in this Lane, gain 1 Action. Use it only to play a Creature into this Lane.",Building,Blue Plains,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Pyramidia.jpg
+Pyromancer,"Each time Pyromancer enters a Landscape, you may deal 2 Damage to target Creature in that Lane. Pay 1 Action >>> Move Pyromancer to an empty Landscape you control.",Creature,Blue Plains,1,0,8,Trigger,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Pyromancer.jpg
+Quadurai,"At the start of you turn, deal 2 Damage to each opponent with 4 or more cards in hand.",Creature,Rainbow,0,0,6,Continuous,For the Glory! Booster Pack (FTG) - Rare,Quadurai.jpg
+Quake Maker,+2 ATK for each face-down Landscape in play.,Creature,Cornfield,1,1,7,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Quake Maker.jpg
+Quick Pick Me Up,Return target Creature you control to its owner's hand. Gain Actions equal to its cost.,Spell,SandyLands,1,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Quick Pick Me Up.jpg
+Rainbow Eyebat,"At the start of your turn, you heal 1 Hit Point for each different Landscape type you control. (Can 't go over 25.)",Creature,NiceLands,1,1,4,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 2,Rainbow Eyebat.jpg
+Raise the Dead,Put a Creature with cost 2 or less from your discard pile into play.,Spell,Useless Swamp,1,,,,For the Glory! Booster Pack (FTG) - Rare,Raise the Dead.jpg
+Rebounding Zebracorn,+1 ATK for each different Landscape type you control.,Creature,Cornfield,1,0,6,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Rebounding Zebracorn.jpg
+Reclaim Landscape,"You may flip one of your Landscapes face up, and you may move one of your Buildings to one of your Lanes without one.",Spell,Rainbow,0,,,,Jake's Cornfield Deck (CP1) - 2,Reclaim Landscape.jpg
+Red Eyeling,FLOOP >>> Return a card with cost 0 from your discard pile to your hand.,Creature,Useless Swamp,1,2,6,FLOOP,BMO's Useless Swamp Deck (CP2) - 2,Red Eyeling.jpg
+Redirect Danger,Move up to 3 Damage on a Creature you control to target opposing Creature in its Lane.,Spell,Blue Plains,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Redirect Danger.jpg
+Reign Deer,FLOOP >>> Draw a card for each Landscape with a Frozen token on it players control.,Creature,IcyLands,2,4,4,FLOOP,Ice King's IcyLands Deck (CP4) - 2,Reign Deer.jpg
+Repelling Rock Crab,"Each time Repelling Rock Crab takes Damage from a Creature, it deals that much Damage to that Creature.",Creature,SandyLands,1,1,5,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2,Repelling Rock Crab.jpg
+Ricardio,"Once during each of your turns, you may pay 1 HP. If you do, reveal the top card of your deck. You may discard it.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Ricardio.jpg
+Ring of Damage,Each of your Creatures has +2 ATK this turn.,Spell,Rainbow,2,,,,For the Glory! Booster Pack (FTG) - Common,Ring of Damage.jpg
+Ring of Fluffy,"Target Creature you control has +X ATK this turn, where X is the amount of Damage on it.",Spell,NiceLands,2,,,,Princess Bubblegum's NiceLands Deck (CP3) - 2,Ring of Fluffy.jpg
+Ring of Third Eye,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.,Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Ring of Third Eye.jpg
+River of Swords,Creatures you control each have +2 ATK this turn. Draw 2 cards.,Spell,Rainbow,2,,,,Fionna's Blue Plains Deck (CP6) - 1,River of Swords.jpg
+Robomancer,+1 ATK for each Creature that changed Lanes during your turn.,Creature,Blue Plains,2,2,7,Continuous,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Robomancer.jpg
+Rock 'n Roller,"When Rock 'n Roller enters play, flip a Landscape in this Lane face down. When Rock 'n Roller leaves play, flip it face up.",Creature,Cornfield,2,2,8,Entering Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Rock 'n Roller.jpg
+Rock Out!,Flip target Landscape face down until the start of your next turn.,Spell,Rainbow,0,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Rock Out!.jpg
+Rocktopus,Rocktopus has +1 ATK while attacking a Creature that is on a SandyLands Landscape.,Creature,Rainbow,2,3,6,Continuous,For the Glory! Booster Pack (FTG) - Common,Rocktopus.jpg
+Routing Rock Crab,"Each time Routing Rock Crab takes Damage from a Creature, you may move that Creature to an adjacent empty Landscape.",Creature,SandyLands,2,2,10,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Routing Rock Crab.jpg
+Royal Revelry,"If target Creature you control deals 1 or more Damage to an opponent this turn, deal 2 Damage to that opponent. After playing this, you may put it into your Teammate's hand.",Spell,Rainbow,1,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Royal Revelry.jpg
+Sack of Pain,"While Sack of Pain has exactly 6 Damage on it, it has +6 ATK.",Creature,NiceLands,2,2,10,Continuous,For the Glory! Booster Pack (FTG) - Rare,Sack of Pain.jpg
+Sailing Sand Crab,"When Sailing Sand Crab enters play, you may play a Creature with cost 1 for free.",Creature,SandyLands,1,2,6,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2,Sailing Sand Crab.jpg
+Sand Angel,"Lie down in the sand, wave your arms and legs, and she will appear to you.",Creature,Rainbow,0,1,5,None,Lady Rainicorn's SandyLand Deck (CP2) - 2,Sand Angel.jpg
+Sand Castle,Discard Sand Castle from play >>> Put your Creature on this Landscape into your hand and then play it for free.,Building,SandyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2,Sand Castle.jpg
+Sand Eyebat,"When another Creature enters play under your control, Sand Eyebat gains 1 DEF.",Creature,SandyLands,2,1,10,Trigger,Lady Rainicorn's SandyLand Deck (CP2) - 2,Sand Eyebat.jpg
+Sand Jackal,"While Sand Jackal is on a [NiceLands]] Landscape, when it defeats an opposing Creature, you heal 3 Hit Points.",Creature,SandyLands,1,3,3,Continuous,For the Glory! Booster Pack (FTG) - Common,Sand Jackal.jpg
+Sand Knights,+2 ATK if you control a Blue Plains Landscape.,Creature,SandyLands,1,1,8,Continuous,Lady Rainicorn's SandyLand Deck (CP2) - 1,Sand Knights.jpg
+Sand Pyramid,Pay 2 Actions >>> Return each Creature in this Lane to its owner's hand. (Affects both players.),Building,SandyLands,1,,,,For the Glory! Booster Pack (FTG) - Uncommon,Sand Pyramid.jpg
+Sand Sphinx,FLOOP >>> Return a Creature you control in this Lane to its owner's hand.,Building,SandyLands,1,,,,Lady Rainicorn's SandyLand Deck (CP2) - 2,Sand Sphinx.jpg
+Sandasaurus Rex,+2 ATK for each of your empty Lanes.,Creature,SandyLands,2,0,9,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1 : For the Glory! Booster Pack (FTG) - Common,Sandasaurus Rex.jpg
+Sandhorn Devil,"When Sandhorn Devil enters play, deal 1 Damage to each Creature in play, (including each of your Creatures).",Creature,SandyLands,1,3,6,Entering Play,Lady Rainicorn's SandyLand Deck (CP2) - 2,Sandhorn Devil.jpg
+Sandmagus,"At the start of your turn, you may return Sandmagus to its owner's hand. If you do, each other Creature you control has +1 ATK this turn.",Creature,SandyLands,1,2,4,Trigger,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Sandmagus.jpg
+Sandsnake,"When Sandsnake enters play, deal 4 Damage to target opposing Creature in this Lane.",Creature,SandyLands,1,0,9,Entering Play,Lady Rainicorn's SandyLand Deck (CP2) - 2,Sandsnake.jpg
+SandWitch,"When SandWitch or another Creature enters play under your control, deal 1 Damage to your opponent.",Creature,SandyLands,1,0,12,Continuous,Lady Rainicorn's SandyLand Deck (CP2) - 2,SandWitch.jpg
+Schoolhouse,FLOOP >>> Your Creature in this Lane loses all abilities and gains the FLOOP ability of a random Creature (with a FLOOP ability) in your discard pile until end of turn.,Building,Blue Plains,1,,,,Finn's Blue Plains Deck (CP1) - 1 : For the Glory! Booster Pack (FTG) - Uncommon,Schoolhouse.jpg
+Scorching Serve,Destroy target opposing Creature. Each opponent draws cards equal to that Creature's cost.,Spell,SandyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Scorching Serve.jpg
+Scroll of Bad Breath,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.,Spell,Useless Swamp,1,,,,For the Glory! Booster Pack (FTG) - Common,Scroll of Bad Breath.jpg
+Scroll of Fresh Breath,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.,Spell,NiceLands,1,,,,For the Glory! Booster Pack (FTG) - Common,Scroll of Fresh Breath.jpg
+Sea Hag,Sea Hag has +1 ATK while attacking a Creature that is on a Useless Swamp Landscape.,Creature,Rainbow,2,3,6,Continuous,For the Glory! Booster Pack (FTG) - Common,Sea Hag.jpg
+Sewn Sloth,"Each adjacent Creature has +1 ATK. If Sewn Sloth has 4 or more Damage on it, each adjacent Creature has +2 ATK instead.",Creature,NiceLands,2,0,8,,Charlie's Blue Plains/NiceLands Deck (2v2) - 2,Sewn Sloth.jpg
+Shadowy Pyramid,"FLOOP >>> Draw a card. If you control a Creature in this Lane, discard a card.",Building,Useless Swamp,1,,,,For the Glory! Booster Pack (FTG) - Common,Shadowy Pyramid.jpg
+Shark,"When a SandyLands Creature enters play during your turn (including Shark), it has +1 ATK this turn.",Creature,SandyLands,2,2,10,Continuous,Lady Rainicorn's SandyLand Deck (CP2) - 2,Shark.jpg
+Sharp Guy,FLOOP >>> Deal 2 Damage to target opposing Creature in this Lane.,Creature,Cornfield,1,1,5,FLOOP,Cake's Cornfield Deck (CP6) - 1,Sharp Guy.jpg
+Sheep,,Creature,Rainbow,0,2,3,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Sheep.jpg
+Shielded ZebraCorn,"When Shielded ZebraCorn attacks, you may heal 1 Damage from an adjacent Creature.",Creature,Cornfield,1,2,6,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Shielded ZebraCorn.jpg
+Shifty Sand Crab,"Each time a Creature enters play during your turn, you may swap its space with Shifty Sand Crab.",Creature,SandyLands,1,2,7,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2,Shifty Sand Crab.jpg
+Silo of Freedom,Discard a card >>> Your Landscape in this Lane loses its type and becomes the type of your choice (except face down) until the start of your next turn.,Building,Cornfield,1,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Silo of Freedom.jpg
+Silo of Justice,Pay 1 Action >>> Deal 1 Damage to target Creature in this Lane and 1 Damage to its controller.,Building,Cornfield,1,,,,For the Glory! Booster Pack (FTG) - Uncommon,Silo of Justice.jpg
+Silo of Truth,Pay 2 Actions >>> Steal a random card from your opponent and play it at no cost.,Building,Cornfield,1,,,,Jake's Cornfield Deck (CP1) - 1,Silo of Truth.jpg
+Singing Sword,Target Creature has +1 ATK this turn for every 2 cards you have drawn this turn.,Spell,Rainbow,0,,,,Fionna's Blue Plains Deck (CP6) - 2,Singing Sword.jpg
+Sinkhole,"Discard a card, FLOOP >>> Flip target Landscape in this Lane face down until the start of your next turn.",Building,Cornfield,2,,,,Lemongrab's Cornfield/SandyLands Deck (CP5) - 1,Sinkhole.jpg
+Ska-pion,Ska-pion costs 1 less to play while an opponent controls a Creature you own.,Creature,SandyLands,1,3,3,Continuous,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Ska-pion.jpg
+Skeletal Hand,"FLOOP >>> Discard the top 3 cards of your deck. For each Spell discarded this way, target player discards a card.",Creature,Useless Swamp,2,3,6,FLOOP,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Skeletal Hand.jpg
+Slashy Sand Crab,"Each time a Creature enters play during your turn on an adjacent Landscape, Slashy Sand Crab deals 2 Damage to a Creature in its Lane.",Creature,SandyLands,2,2,8,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Slashy Sand Crab.jpg
+Slay Rider,FLOOP >>> Deal 3 Damage to target Creature on a Landscape with a Frozen token on it.,Creature,IcyLands,1,0,5,FLOOP,Ice King's IcyLands Deck (CP4) - 2,Slay Rider.jpg
+Slushie Salvo,Freeze target Landscape. You may move any number of Frozen tokens to a new Landscape (1 token per Landscapes).,Spell,IcyLands,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Slushie Salvo.jpg
+Smoldering Elder,"When Smoldering Elder enters play, each player discards 2 cards.",Creature,Useless Swamp,2,3,8,Entering Play,For the Glory! Booster Pack (FTG) - Rare,Smoldering Elder.jpg
+Smooth Eli,Floop >>> Move target Frozen token from one Landscape to a new Landscape.,Creature,IcyLands,1,2,6,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 2 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Smooth Eli.jpg
+Snake Eye Ring,Return a random Useless Swamp Creature from your discard pile to your hand.,Spell,Rainbow,0,,,,BMO's Useless Swamp Deck (CP2) - 2,Snake Eye Ring.jpg
+Snake Eyes,Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.,Spell,SandyLands,1,,,,For the Glory! Booster Pack (FTG) - Common,Snake Eyes.jpg
+Snakemint,"When Snakemint deals Damage to an opposing player, you heal that many Hit Points. (Cant ' go over 25.)",Creature,NiceLands,1,1,7,Trigger,Princess Bubblegum's NiceLands Deck (CP3) - 2,Snakemint.jpg
+Snow Angel,FLOOP >>> Heal 1 Damage from each of your Creatures for each Landscape with a Frozen token on it players control.,Creature,IcyLands,1,2,7,FLOOP,Ice King's IcyLands Deck (CP4) - 1,Snow Angel.jpg
+Snow Baller,Remove a Frozen token from Snow Baller's Landscape >>> Deal 3 Damage to target Creature.,Creature,IcyLands,1,2,7,Ignition,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Snow Baller.jpg
+Snow Bank,"FLOOP, Remove a Frozen token from a Landscape in this Lane >>> Deal 3 Damage to target opponent.",Building,IcyLands,1,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Snow Bank.jpg
+Snow Bunny,Destroy Snow Bunny >>> Freeze target Landscape.,Creature,IcyLands,1,3,3,Ignition,Ice King's IcyLands Deck (CP4) - 2,Snow Bunny.jpg
+Snow Business,Pay 1 Action >>> Freeze target Landscape in this Lane.,Building,IcyLands,2,,,,Ice King's IcyLands Deck (CP4) - 1,Snow Business.jpg
+Snow Dog,FLOOP >>> Each adjacent Creature has +2 ATK this turn.,Creature,IcyLands,2,2,7,FLOOP,Ice King's IcyLands Deck (CP4) - 2,Snow Dog.jpg
+Snow Training Camp,FLOOP >>> Freeze both Landscapes in this Lane. Use only if no Frozen tokens are in play.,Building,Rainbow,0,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Snow Training Camp.jpg
+Snow Way,Freeze two target Landscapes.,Spell,IcyLands,1,,,,Ice King's IcyLands Deck (CP4) - 1,Snow Way.jpg
+Snowblower,Choose a Lane. Freeze both Landscapes in that Lane.,Spell,IcyLands,1,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Snowblower.jpg
+Snowvalanche,Deal 2 Damage to each opposing Creature on a Landscape with a Frozen token on it.,Spell,Rainbow,0,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Snowvalanche.jpg
+Socks of Fortitude,Ready each Creature that changed Lanes this turn. They each have +2 ATK this turn.,Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Socks of Fortitude.jpg
+Softie Recruit,"When Softie Recruit enters play, if your opponent does not control a Creature in this Lane, gain 1 Action.",Creature,IcyLands,1,2,5,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1 : Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,Softie Recruit.jpg
+Solidarity,The first Creature that attacks another Creature during your Team's turns has +1 ATK that turn.,Teamwork,NiceLands,2,,,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Solidarity.jpg
+Spazzy Cola,Each Creature in play has +1 ATK this turn (including your opponent's Creatures).,Spell,Rainbow,0,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Spazzy Cola.jpg
+Spell Warp,Swap the positions of 2 Creatures you control. (They change Lanes simultaneously.),Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Common,Spell Warp.jpg
+Spike Icicle,Look out below!,Creature,Rainbow,0,3,1,None,Ice King's IcyLands Deck (CP4) - 2,Spike Icicle.jpg
+Spiked ZebraCorn,"When Spiked ZebraCorn attacks, deal 1 Damage to each opposing Creature in adjacent Lanes.",Creature,Cornfield,2,2,7,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Spiked ZebraCorn.jpg
+Spirit Tower,"Pay 1 Action and FLOOP >>> If you control no Creatures in this Lane, move target Creature in this Lane to your side and ready it. At end of turn, return it to its owner's side.",Building,Useless Swamp,2,,,,BMO's Useless Swamp Deck (CP2) - 1 : For the Glory! Booster Pack (FTG) - Common,Spirit Tower.jpg
+Sprucy Lucy,Sprucy Lucy has +1 ATK for each Landscape with a Frozen token on it players control.,Creature,IcyLands,2,2,9,Continuous,Ice King's IcyLands Deck (CP4) - 1,Sprucy Lucy.jpg
+Squatting Bald Man,Discard a card >>> Heal 1 Damage from Squatting Bald Man. (Use any number of times during each of your turns.),Creature,Useless Swamp,1,2,7,Ignition,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Squatting Bald Man.jpg
+Staff of Frailty,Add Damage to target Creature until it has 1 DEF remaining.,Spell,Useless Swamp,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Staff of Frailty.jpg
+Static Parrotrooper,"When Static Parrotrooper enters play, move it to any empty Landscape. It cannot be replaced. At the start of your turn, deal 1 damage to your Hero.",Creature,Rainbow,0,0,6,Entering Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,Static Parrotrooper.jpg
+Steakchop,"At the start of your turn, discard 2 cards or destroy Steakchop. (Discard after your free draw.)",Creature,Useless Swamp,1,4,4,Continuous,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Steakchop.jpg
+Stitched Squirrel,"At the start of your turn, if Stitched Squirrel has 4 or more Damage on it, destroy target opposing Building in this lane.",Creature,NiceLands,1,2,8,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Stitched Squirrel.jpg
+Strawberry Slimey,"If you control 3 or more different Landscape types when Strawberry Slimey enters play, heal 4 Damage from each Creature you control.",Creature,NiceLands,1,2,6,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Strawberry Slimey.jpg
+Strength Crystal,Target player draws five cards.,Spell,Blue Plains,2,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Strength Crystal.jpg
+Struzann Jinn,+2 ATK for each Flooped Creature you control.,Creature,Blue Plains,2,1,11,Continuous,Finn's Blue Plains Deck (CP1) - 2,Struzann Jinn.jpg
+Stuffed,"Choose a Creature you control and deal Damage to it equal to its ATK, and then double its ATK this turn.",Spell,NiceLands,1,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Stuffed.jpg
+SubjuGator,The opposing Creature in this Lane has -1 DEF for every 5 cards in your discard pile.,Creature,Useless Swamp,2,3,7,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,SubjuGator.jpg
+Subliminal Strength,Target Creature you control has +2 ATK this turn for each Spell you played this turn (including this one).,Spell,Blue Plains,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 2,Subliminal Strength.jpg
+Sun King,Sun King counts as an additional Cornfield Landscape you control.,Creature,Cornfield,2,0,8,Continuous,For the Glory! Booster Pack (FTG) - Rare,Sun King.jpg
+Sundae School,"While you have an even amount of Hit Points, your Creature on this Landscape has +2 ATK.",Building,Rainbow,1,,,,Boom! Comics Adventure Time with Fionna and Cake: Card Wars Issue #1 (PROMO) - Ultra Rare,Sundae School.jpg
+Susan Strong,Pay 1 Action & destroy a Creature you control >>> Deal Damage equal to its cost to each opposing Creature.,Hero,,,,,,Hero Pack #1 (HP1) - 1,Susan Strong.jpg
+Swamp Horn,+1 DEF for each different Landscape type you control.,Creature,Useless Swamp,2,4,1,Continuous,For the Glory! Booster Pack (FTG) - Common,Swamp Horn.jpg
+Sword Bouquet,Deal 1 Damage to target Creature for every card you have drawn this turn.,Spell,Rainbow,0,,,,Fionna's Blue Plains Deck (CP6) - 2,Sword Bouquet.jpg
+Synchronization,"At the start of your and your Teammate's Fight Phase, if you and your Teammate played no Spells this turn, the other Teammate may play a Spell with cost 1 or less without paying its cost.
+",Teamwork,Useless Swamp,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Synchronization.jpg
+TailGator,"When TailGator enters play, draw a card for each Creature that entered your discard pile this turn.",Creature,Useless Swamp,1,2,6,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 2,TailGator.jpg
+Tandem Bike,Choose a Creature you control and put it into its owner's hand. Then choose another player. That player chooses a creature they control and puts it into its owner's hand.,Spell,Rainbow,0,,,,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,Tandem Bike.jpg
+Tapped Out,Target Creature you control has +2 ATK for each exhausted Creature you control (at the time you play this).,Spell,Blue Plains,1,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Tapped Out.jpg
+Tax Reduction,You may move each of your Buildings to different Lanes you control. You may move each of your opponent 's Buildings to different Lanes he controls.,Spell,Blue Plains,1,,,,For the Glory! Booster Pack (FTG) - Uncommon,Tax Reduction.jpg
+Teeth Leaf,"If you have 10 or more cards in your discard pile, pay 2 fewer Actions to play Teeth Leaf.",Creature,Useless Swamp,2,3,10,Continuous,BMO's Useless Swamp Deck (CP2) - 1,Teeth Leaf.jpg
+Teleport,Move one of your Creatures to one of your empty Lanes.,Spell,Rainbow,0,,,,Jake's Cornfield Deck (CP1) - 2 : Finn's Blue Plains Deck (CP1) - 2 : Lady Rainicorn's SandyLand Deck (CP2) - 2,Teleport.jpg
+Temple of the Sun,"When a SandyLands Creature with cost 1 or greater you control enters play in this Lane, you may return it to its owner's hand.",Building,SandyLands,1,,,,For the Glory! Booster Pack (FTG) - Uncommon,Temple of the Sun.jpg
+The Barrel,Each The Barrel has +1 ATK and +1 DEF for each other The Barrel in play.,Creature,Rainbow,0,1,5,Continuous,Charlie's Blue Plains/NiceLands Deck (2v2) - 1,The Barrel.jpg
+The Big Hen House,"At the start of your turn, deal 1 or 2 Damage to your Creature in this Lane, then you heal 1 HP (Max 25).",Building,NiceLands,1,,,,Marceline's NiceLands/Useless Swamp Deck (CP4) - 1,The Big Hen House.jpg
+The Cooler,"When The Cooler leaves play, Freeze its Landscape.",Creature,IcyLands,2,4,7,Leaving Play,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,The Cooler.jpg
+The Cooper,FLOOP >>> Target Creature gets +ATK this turn equal to the total cost of Teamwork cards your team controls.,Creature,SandyLands,2,3,8,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,The Cooper.jpg
+The Dog,"FLOOP >>> Opposing Buildings in this Lane are blank while The Dog is Flooped ""Woof.""",Creature,Rainbow,1,1,7,,Fionna's Blue Plains Deck (CP6) - 2,The Dog.jpg
+The Mariachi,FLOOP >>> Deal 1 Damage to target Creature for each Creature that entered play this turn.,Creature,SandyLands,2,2,9,FLOOP,Lady Rainicorn's SandyLand Deck (CP2) - 2,The Mariachi.jpg
+The Pig,FLOOP >>> Flip target Cornfield Landscape in this Lane face down.,Creature,Rainbow,1,1,4,FLOOP,Finn's Blue Plains Deck (CP1) - 2,The Pig.jpg
+The Sludger,FLOOP >>> Choose a card name. Remove each card with that name in target player's discard pile from the game.,Creature,Useless Swamp,1,1,8,FLOOP,For the Glory! Booster Pack (FTG) - Rare,The Sludger.jpg
+Timmy Magic Eyes,Timmy Magic Eyes has +1 ATK while attacking a Creature that is on a Blue Plains Landscape.,Creature,Rainbow,2,3,6,Continuous,For the Glory! Booster Pack (FTG) - Common,Timmy Magic Eyes.jpg
+Tiny Elephant,"While in play, Tiny Elephant is also a Rainbow Creature (in addition to Blue Plains).",Creature,Blue Plains,1,2,6,,Fionna's Blue Plains Deck (CP6) - 2,Tiny Elephant.jpg
+Tired Wombat,"At the start of your turn, move Tired Wombat to an empty Landscape you control. If you cannot, move it to an empty Landscape your opponent controls.",Creature,Blue Plains,2,4,5,Trigger,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Tired Wombat.jpg
+TNTimmy,"When TNTimmy leaves play, deal 1 Damage to each opposing Creature.",Creature,Rainbow,0,0,5,Leaving Play,Lemongrab's Cornfield/SandyLands Deck (CP5) - 2,TNTimmy.jpg
+Toilet of Doom,Target Creature you control has +1 ATK this turn for every 5 cards in your discard pile.,Spell,Useless Swamp,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1 : For the Glory! Booster Pack (FTG) - Rare,Toilet of Doom.jpg
+Tome of Ankhs,Draw a card for each of your empty Lanes.,Spell,SandyLands,1,,,,Lady Rainicorn's SandyLand Deck (CP2) - 1,Tome of Ankhs.jpg
+Tornado Wall Of Fire,FLOOP >>> Tornado Wall of Fire has +3 ATK while Flooped.,Creature,Cornfield,2,0,10,,Cake's Cornfield Deck (CP6) - 2,Tornado Wall Of Fire.jpg
+Tough Lumberjill,"When Tough Lumberjill enters play, deal 1 Damage to your opponent for each Building you control.",Creature,Cornfield,2,3,6,Entering Play,Cake's Cornfield Deck (CP6) - 2,Tough Lumberjill.jpg
+Trained ZebraCorn Husker,"+1 ATK for each Teamwork your team controls. If Trained ZebraCorn Husker leaves play during your Fight Phase, you may put it into your hand.",Creature,Cornfield,2,3,7,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 1",Trained ZebraCorn Husker.jpg
+Travelin' Farmer,"When Travelin' Farmer leaves play, deal 1 Damage to your opponent for each card in his hand.",Creature,Cornfield,2,2,12,Leaving Play,Jake's Cornfield Deck (CP1) - 2,Travelin' Farmer.jpg
+Travelin' Skeleton,FLOOP >>> Travelin' Skeleton and another Creature you control change Lanes with each other.,Creature,Blue Plains,1,0,8,FLOOP,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Travelin' Skeleton.jpg
+Travelin' Wizard,"When Travelin' Wizard enters play, the opposing Creature in this Lane and Travelin' Wizard switch sides.",Creature,Blue Plains,2,3,3,Entering Play,For the Glory! Booster Pack (FTG) - Rare,Travelin' Wizard.jpg
+Tree of Undeath,FLOOP >>> Return a random Creature from your discard pile to your hand.,Creature,Useless Swamp,2,2,6,FLOOP,BMO's Useless Swamp Deck (CP2) - 1,Tree of Undeath.jpg
+Tree Trunks,"Once during  each of your turns, you may discard a card with ""Pie"" in its name to gain 1 Action.",Hero,,,,,,Hero Pack #1 (HP1) - 1,Tree Trunks.jpg
+Twinsies,"Draw a card and reveal it. Another target player then reveals the top card of their deck. If their costs match, the targeted player draws it.",Spell,Rainbow,0,,,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Twinsies.jpg
+Ultra Dog,Floop >>> Freeze target Landscape with a Creature on it.,Creature,IcyLands,2,3,6,,Grand Prix's SandyLands/IcyLands Deck (2v2) - 1,Ultra Dog.jpg
+Unempty Coffin,Reduce the cost of the next Creature you play this turn by 2 Actions.,Spell,Rainbow,0,,,,Lady Rainicorn's SandyLand Deck (CP2) - 2,Unempty Coffin.jpg
+Unicyclops,"At the start of your turn, each player draws a card and then discards a card.",Creature,Useless Swamp,2,1,10,Continuous,Marceline's NiceLands/Useless Swamp Deck (CP4) - 2,Unicyclops.jpg
+Uni-Knight,Pay 1 Action >>> Target Creature in this Lane has -10 ATK this turn.,Creature,Blue Plains,1,3,4,Ignition,Finn's Blue Plains Deck (CP1) - 1 : For the Glory! Booster Pack (FTG) - Uncommon,Uni-Knight.jpg
+Vampire Lord,"When Vampire Lord deals damage, heal that much Damage from him.",Creature,Rainbow,2,1,8,,Fionna's Blue Plains Deck (CP6) - 1,Vampire Lord.jpg
+Void Thimble,"Lose 2 Hit Points, gain 1 Action.",Spell,Rainbow,0,,,,Cake's Cornfield Deck (CP6) - 1,Void Thimble.jpg
+Volcano,Destroy target Building. You may deal 3 Damage to a Creature in that Lane. Flip your Landscape in that Lane face down.,Spell,Rainbow,1,,,,Lumpy Space Princess' Blue Plains/Useless Swamp Deck (Totally Rad Deck) (CP3) - 1,Volcano.jpg
+Wake Up Call,Ready each Creature you control.,Spell,Blue Plains,1,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Wake Up Call.jpg
+Wall of Chocolate,"While Wall of Chocolate has no Damage on it, it has +3 ATK.",Creature,NiceLands,2,1,9,Continuous,Princess Bubblegum's NiceLands Deck (CP3) - 2,Wall of Chocolate.jpg
+Wall of Ears,+1 DEF for each Cornfield Landscape in play (counting all players).,Creature,Cornfield,1,2,4,Continuous,Jake's Cornfield Deck (CP1) - 2,Wall of Ears.jpg
+Wall of Sand,"If one or more other SandyLands Creatures enter play during your turn, Wall of Sand has +2 ATK this turn.",Creature,SandyLands,2,1,12,Continuous,Lady Rainicorn's SandyLand Deck (CP2) - 2,Wall of Sand.jpg
+Wandering Bald Man,"At the start of your turn, put the top card of your deck into your discard pile.",Creature,Rainbow,0,0,10,Continuous,BMO's Useless Swamp Deck (CP2) - 2,Wandering Bald Man.jpg
+Water Logged,Opposing Creatures have -2 ATK this turn (min 0).,Spell,Useless Swamp,1,,,,Moniker's Useless Swamp/IcyLands Deck (2v2) - 1,Water Logged.jpg
+Weakened Warrior,"Weakened Warrior comes into play exhausted and does not ready at the start of your turn. Whenever Weakened Warrior changes Lanes, ready it.",Creature,Blue Plains,2,5,6,Trigger,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Weakened Warrior.jpg
+Weary Trading Post,FLOOP >> Move an exhausted Creature you control to this Landscape (if empty).,Building,Rainbow,0,,,,Gunter's Blue Plains/IcyLands Deck (CP5) - 1,Weary Trading Post.jpg
+Well-Dressed Wolf,Well-Dressed Wolf has +1 ATK while attacking a Creature that is on a Cornfield Landscape.,Creature,Rainbow,2,3,6,Continuous,For the Glory! Booster Pack (FTG) - Common,Well-Dressed Wolf.jpg
+Windmill of Health,"While your Creature in this Lane has no Damage on it, it has +2 ATK.",Building,NiceLands,1,,,,Princess Bubblegum's NiceLands Deck (CP3) - 1,Windmill of Health.jpg
+Witch Slap,"Target opponent discards down to 5 cards, and then takes 1 Damage for each card discarded this way.",Spell,Rainbow,2,,,,For the Glory! Booster Pack (FTG) - Rare,Witch Slap.jpg
+Witch Way,Each of your Creature that is on a Useless Swamp Landscape has +2 ATK this turn.,Spell,Cornfield,1,,,,For the Glory! Booster Pack (FTG) - Common,Witch Way.jpg
+Woad Blood,Each Creature that changed Lanes this turn has +2 ATK this turn.,Spell,Rainbow,0,,,,Finn's Blue Plains Deck (CP1) - 1,Woad Blood.jpg
+Woad Mobile Home,FLOOP >>> Move a Creature in an empty adjacent Lane to this Lane (if empty).,Building,Blue Plains,1,,,,Finn's Blue Plains Deck (CP1) - 2,Woad Mobile Home.jpg
+Woad Talisman,Target Blue Plains Creature you control has +2 ATK this turn.,Spell,Rainbow,0,,,,Finn's Blue Plains Deck (CP1) - 2,Woad Talisman.jpg
+Woadic Chief,Woadic Chief has +2 ATK this turn for each Spell you have played this turn.,Creature,Blue Plains,2,2,10,Trigger,Finn's Blue Plains Deck (CP1) - 1,Woadic Chief.jpg
+Woadic Enchantress,Creatures in this Lane cannot use Floop abilities.,Creature,Blue Plains,2,2,10,,Fionna's Blue Plains Deck (CP6) - 2,Woadic Enchantress.jpg
+Woadic Marauder,"When Woadic Marauder changes Lanes during a turn, draw a card.",Creature,Blue Plains,2,3,9,Trigger,Finn's Blue Plains Deck (CP1) - 2,Woadic Marauder.jpg
+Woadic Matriarch,Woadic Matriarch has +1 ATK for each Rainbow Creature you control.,Creature,Blue Plains,1,1,7,,Fionna's Blue Plains Deck (CP6) - 1,Woadic Matriarch.jpg
+Woadic Ring Leader,"At the start of your turn, move Woadic Ring Leader to an empty Landscape you control. If you cannot, destroy it.",Creature,Blue Plains,1,3,4,Trigger,Gunter's Blue Plains/IcyLands Deck (CP5) - 2,Woadic Ring Leader.jpg
+Woadic Weirdo,FLOOP >>> Reveal a card from your hand. That card becomes a Rainbow card until the end of your turn. (It has no Landscape type).,Creature,Blue Plains,1,1,7,,Fionna's Blue Plains Deck (CP6) - 2,Woadic Weirdo.jpg
+X-Large Spirit Soldier,Each adjacent Creature has +1 ATK.,Creature,Blue Plains,1,1,9,Continuous,Finn's Blue Plains Deck (CP1) - 2,X-Large Spirit Soldier.jpg
+Yellow Gnome,FLOOP >>> Deal 1 Damage to each opposing Creature that is on a NiceLands Landscape.,Creature,Cornfield,1,1,6,FLOOP,For the Glory! Booster Pack (FTG) - Uncommon,Yellow Gnome.jpg
+Yellow Lighthouse,"At the start of your turn, each players who controls a Creature in this Lane draws a card.",Building,Cornfield,1,,,,For the Glory! Booster Pack (FTG) - Common,Yellow Lighthouse.jpg
+Yellow Slimey,"While you control 3 or more different Landscape types, Yellow Slimey has +3 ATK.",Creature,Cornfield,1,0,6,Continuous,For the Glory! Booster Pack (FTG) - Uncommon,Yellow Slimey.jpg
+Young ZebraCorn Husker,"If Young ZebraCorn Husker leaves play during your Fight Phase, you may put it on top of your deck.",Creature,Cornfield,1,2,5,,"Jake's Cornfield/NiceLands Deck
+ (2v2) - 2",Young ZebraCorn Husker.jpg
+ZaZo's Magic Seeds,Target SandyLands Creature has +2 ATK this turn for each Creature that entered play into an adjacent Lane this turn.,Spell,Rainbow,0,,,,Lady Rainicorn's SandyLand Deck (CP2) - 2,ZaZo's Magic Seeds.jpg
+Cyclops,+1 DEF for each open eye depicted on other Creatures you control.,Creature,Rainbow,1,3,1,,Adventure Time: Card Wars DVD,Cyclops.jpg

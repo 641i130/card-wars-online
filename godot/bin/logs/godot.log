@@ -1,0 +1,15 @@
+Godot Engine v3.2.3.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: Radeon RX 580 Series (POLARIS10, DRM 3.35.0, 5.4.78-1-lts, LLVM 11.0.0)
+ 
+**ERROR**: Class 'EditorSettings' can only be instantiated by editor.
+   At: core/class_db.cpp:544:instance() - Class 'EditorSettings' can only be instantiated by editor.
+**ERROR**: /home/carrot/.local/share/Steam/steamapps/common/Godot Engine/editor_data/editor_settings-3.tres:3 - Parse Error: Can't create sub resource of type: EditorSettings
+   At: scene/resources/resource_format_text.cpp:565:poll() - /home/carrot/.local/share/Steam/steamapps/common/Godot Engine/editor_data/editor_settings-3.tres:3 - Parse Error: Can't create sub resource of type: EditorSettings
+**ERROR**: Failed to load resource '/home/carrot/.local/share/Steam/steamapps/common/Godot Engine/editor_data/editor_settings-3.tres'.
+   At: core/io/resource_loader.cpp:208:load() - Condition "err != OK" is true. Returned: RES()
+**ERROR**: Failed loading resource: /home/carrot/.local/share/Steam/steamapps/common/Godot Engine/editor_data/editor_settings-3.tres. Make sure resources have been imported by opening the project in the editor at least once.
+   At: core/io/resource_loader.cpp:279:_load() - Condition "found" is true. Returned: RES()
+**WARNING**: Could not open config file.
+   At: editor/editor_settings.cpp:938:create() - Could not open config file.
+**ERROR**: Invalid export preset name: HTML5. Make sure `export_presets.cfg` is present in the current directory.
+   At: editor/editor_node.cpp:753:_fs_changed() - Invalid export preset name: HTML5. Make sure `export_presets.cfg` is present in the current directory.
