@@ -10,6 +10,7 @@ onready var five = get_tree().get_root().get_node("Desk/Player Hand/Five/Five")
 onready var hand = [[0, one],[1, two], [2, three],[3, four],[4, five]]
 onready var cardsall = {}
 onready var playersdeck = []
+onready var handar = []
 
 func _ready():
 	readincsv() # Read CSV file into memory; will change this into a better system later
@@ -51,24 +52,27 @@ func genDeck():
 			playersdeck.append(card[0])
 			c+=1
 			i+=1
-	if (playersdeck.size() != 39):
+	if (playersdeck.size() != 40):
 		print("This deck is broken!")
+	print(playersdeck)
 
-func toHand():
-	pass
+func toHand(i):
+	playersdeck.remove(playersdeck.find(i))
+	handar.append(i)
 func toDiscard():
 	pass
 func toLane():
 	pass
-	
-
 func random_card():
 	# Allow the player to draw a card in their deck
 	if counter <= 4:
 		rng.randomize()
-		#rng.randi_range(1, 512)
-		var num = rng.randi_range(0, 39)
 		# Choose card in their deck array
+		var num = rng.randi_range(0, 39)
+		# Remove card from deck
+		
+		# Add card to hand
+		toHand(num)
 		var rand_card = load("res://assets/cards/" +str(playersdeck[num])+ ".jpg" )
 		hand[counter][1].set_texture(rand_card)
 		counter+=1

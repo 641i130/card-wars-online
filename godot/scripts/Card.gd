@@ -1,4 +1,4 @@
-extends Node
+extends Area2D
 class_name Card
 # Card template
 
