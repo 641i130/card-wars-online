@@ -1,5 +1,5 @@
 extends Area2D
-extends "res://scripts/decklists.gd"
+#extends "res://scripts/decklists.gd"
 
 # When loaded, set this variable to the  sprite in the player's hand
 onready var one = get_tree().get_root().get_node("Desk/Player Hand/One/One")
@@ -9,9 +9,11 @@ onready var four = get_tree().get_root().get_node("Desk/Player Hand/Four/Four")
 onready var five = get_tree().get_root().get_node("Desk/Player Hand/Five/Five")
 onready var hand = [[0, one],[1, two], [2, three],[3, four],[4, five]]
 onready var cardsall = {}
+onready var playersdeck = []
 
 func _ready():
-	readincsv() # Read CSV file into memory
+	readincsv() # Read CSV file into memory; will change this into a better system later
+	genDeck()
 """
 CSV ORDER:
 name,description,card_type,landscape,cost,atk,def,ability,deck_info,image_name
@@ -20,7 +22,7 @@ func readincsv():
 	var file = File.new()
 	file.open("res://assets/cards.csv", file.READ)
 	while !file.eof_reached():
-		var data_set = Array(file.get_csv_line()) # 
+		var data_set = Array(file.get_csv_line()) # Read each line and add it to the {}
 		cardsall[cardsall.size()] = data_set # Append to file
 	file.close()
 	print(cardsall[1][0]) # Example on how to read card name with an ID 1 being the ID of the card and 0 being the card's name record
@@ -39,14 +41,36 @@ func genCard():
 	var card = load("res://scripts/Card.gd")
 	var first = card.new()
 	first.landscape = "Corn"
+
+func genDeck():
+	# Generate player's deck
+	var c = 0
+	for card in Decklists.CP1a: # Choose deck here
+		print(card)
+		for i in range(1,int(card[1])+1):
+			playersdeck.append(card[0])
+			c+=1
+			i+=1
+	if (playersdeck.size() != 39):
+		print("This deck is broken!")
+
+func toHand():
+	pass
+func toDiscard():
+	pass
+func toLane():
+	pass
 	
-
-
 
 func random_card():
 	# Allow the player to draw a card in their deck
 	if counter <= 4:
 		rng.randomize()
-		var rand_card = load("res://assets/cards/" +str(rng.randi_range(1, 512))+ ".jpg" )
+		#rng.randi_range(1, 512)
+		var num = rng.randi_range(0, 39)
+		# Choose card in their deck array
+		var rand_card = load("res://assets/cards/" +str(playersdeck[num])+ ".jpg" )
 		hand[counter][1].set_texture(rand_card)
 		counter+=1
+	if counter >= 5:
+		counter = 0

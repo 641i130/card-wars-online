@@ -25,6 +25,10 @@ config/description="This is a game framework for the card wars cards that were s
 run/main_scene="res://scenes/menu.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+Decklists="*res://scripts/decklists.gd"
+
 [display]
 
 window/size/width=1600
