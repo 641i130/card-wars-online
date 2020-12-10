@@ -15,6 +15,8 @@ onready var handar = []
 func _ready():
 	readincsv() # Read CSV file into memory; will change this into a better system later
 	genDeck()
+	var test = Card.new("test")
+	print(test)
 """
 CSV ORDER:
 name,description,card_type,landscape,cost,atk,def,ability,deck_info,image_name
@@ -35,7 +37,6 @@ onready var counter = 0;
 func _on_Area2D_input_event(viewport, event, shape_idx):
 	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
 		# If mouse click left button then give player a card      
-		print("Click")
 		random_card()
 
 func genCard():
@@ -52,7 +53,7 @@ func genDeck():
 			playersdeck.append(card[0])
 			c+=1
 			i+=1
-	if (playersdeck.size() != 40):
+	if (c == 39):
 		print("This deck is broken!")
 	print(playersdeck)
 
