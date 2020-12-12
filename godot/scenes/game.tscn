@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://scripts/Card.gd" type="Script" id=1]
 [ext_resource path="res://scripts/game.gd" type="Script" id=2]
@@ -8,6 +8,7 @@
 [ext_resource path="res://scripts/draggy.gd" type="Script" id=6]
 [ext_resource path="res://assets/cards/0.jpg" type="Texture" id=7]
 [ext_resource path="res://scripts/Deck.gd" type="Script" id=8]
+[ext_resource path="res://Card.tscn" type="PackedScene" id=9]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 118.792, 167.889 )
@@ -136,6 +137,7 @@ scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
 [node name="Player Hand" type="Area2D" parent="."]
+visible = false
 position = Vector2( 1238.15, 793.147 )
 
 [node name="One" type="Area2D" parent="Player Hand"]
@@ -197,6 +199,8 @@ scale = Vector2( 0.377863, 0.377863 )
 position = Vector2( -136.598, 69.8072 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
+
+[node name="Card" parent="." instance=ExtResource( 9 )]
 
 [node name="Deck" type="Area2D" parent="."]
 position = Vector2( 1432.27, 716.673 )
