@@ -12,6 +12,8 @@ onready var cardsall = {}
 onready var playersdeck = []
 onready var handar = []
 onready var discard = []
+var rng = RandomNumberGenerator.new()
+onready var counter = 0
 
 func _ready():
 	readincsv() # Read CSV file into memory; will change this into a better system later
@@ -31,14 +33,13 @@ func readincsv():
 	file.close()
 	print(cardsall[1][0]) # Example on how to read card name with an ID 1 being the ID of the card and 0 being the card's name record
 
-
-var rng = RandomNumberGenerator.new()
-onready var counter = 0;
-
 func _on_Area2D_input_event(viewport, event, shape_idx):
+	"When clicked on deck, draw a card from the deck into hand"
 	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
-		# If mouse click left button then give player a card      
-		random_card()
+		# If mouse click left button then give player a card
+		if len(handar) < 5: # Can only have this many cards in hand
+			# Draw a random card
+			random_card()
 
 func genCard():
 	var card = load("res://scripts/Card.gd")
@@ -79,12 +80,10 @@ func random_card():
 		# Choose card in their deck array
 		var num = rng.randi_range(0, playersdeck.size()-1)
 		# Remove card from deck
-		# Add card to hand
-		
+		# Add card to hand	
 		var rand_card = load("res://assets/cards/" +str(playersdeck[num])+ ".jpg" )
 		hand[counter][1].set_texture(rand_card)
 		counter+=1
 		toHand(num)
-
 	if counter >= 5:
 		counter = 0

@@ -1,0 +1,7 @@
+Godot Engine v3.3.2.stable.arch_linux - https://godotengine.org
+OpenGL ES 3.0 Renderer: Mesa Intel(R) HD Graphics 620 (KBL GT2)
+OpenGL ES Batching: ON
+ 
+**ERROR**: Condition "default_certs != __null" is true.
+   At: modules/mbedtls/crypto_mbedtls.cpp:201:load_default_certificates() - Condition "default_certs != __null" is true.
+Editing project: /home/carrot/card-wars-online/godot (::home::carrot::card-wars-online::godot)
