@@ -21,12 +21,15 @@ var atk
 var def
 
 # INIT
-func _init(a="Null",b="Null",c=0,d=0):
+#func _init(a="Null",b="Null",c=0,d=0):
 	# If the values aren't set in the call, then assume they are Null or 0
-	ctype = a
-	landscape = b
-	atk = c
-	def = d
+	#ctype = a
+	#landscape = b
+	#atk = c
+	#def = d
+func _init(in_id=0):
+	"Card class takes ID and sets other values from imported CSV"
+	id = in_id
 
 # To get values do card.ctype to show landscape etc
 

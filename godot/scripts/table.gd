@@ -43,8 +43,7 @@ func _on_Area2D_input_event(viewport, event, shape_idx):
 
 func genCard():
 	var card = load("res://scripts/Card.gd")
-	var first = card.new()
-	first.landscape = "Corn"
+	var first = card.new(12)
 
 func genDeck():
 	# Generate player's deck
@@ -80,8 +79,10 @@ func random_card():
 		# Choose card in their deck array
 		var num = rng.randi_range(0, playersdeck.size()-1)
 		# Remove card from deck
-		# Add card to hand	
+		# Add card to hand
 		var rand_card = load("res://assets/cards/" +str(playersdeck[num])+ ".jpg" )
+		var game = load("res://game.tscn")
+		add_child_below_node(get_tree().get_root().get_node("game"),rand_card.instance())
 		hand[counter][1].set_texture(rand_card)
 		counter+=1
 		toHand(num)
