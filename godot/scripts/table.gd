@@ -1,20 +1,19 @@
 extends Area2D
 #extends "res://scripts/decklists.gd"
-
 # When loaded, set this variable to the  sprite in the player's hand
 onready var hand = [[0, null],[1, null], [2, null],[3, null],[4, null]]
-
 onready var playersdeck = []
 onready var handar = []
-onready var discard = []
+var discard = []
 var rng = RandomNumberGenerator.new()
-onready var counter = 0
-var card_loc = Vector2(-1300, 100)
+var counter = 0
+var cardx = -1300
+
 func _ready():
 	genDeck()
 
 "Draw from deck again"
-func _on_Area2D_input_event(viewport, event, shape_idx):
+func _on_Area2D_input_event(_viewport, event, _shape_idx):
 	"When clicked on deck, draw a card from the deck into hand"
 	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
 		# If mouse click left button then give player a card
@@ -25,7 +24,8 @@ func _on_Area2D_input_event(viewport, event, shape_idx):
 
 func genCard(id):
 	"Inits card from class and returns it"
-	return load("res://Card.tscn").instance(id) # init method
+	cardx+=200
+	return load("res://Card.tscn").instance(id,cardx) # init method
 
 func genDeck():
 	# Generate player's deck
@@ -62,11 +62,8 @@ func random_card():
 		var cid = rng.randi_range(0, playersdeck.size()-1)
 		# Remove card from deck
 		# Add card to hand
-		var rand_card = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg" )
-		var game = load("res://game.tscn")
+		var rand_card = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg")
 		var newcard = genCard(cid)
-		card_loc.x += 200
-		newcard.global_position = card_loc
 		newcard.get_node("Card/Card").set_texture(rand_card)
 		newcard.get_node("Card/Card").scale = Vector2(0.55, 0.55)
 		add_child_below_node(get_tree().get_root().get_node("Desk"),newcard)
