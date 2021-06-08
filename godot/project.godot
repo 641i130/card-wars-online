@@ -27,7 +27,7 @@ config/icon="res://icon.png"
 
 [autoload]
 
-Decklists="*res://scripts/decklists.gd"
+_c="*res://scripts/_c.gd"
 
 [display]
 

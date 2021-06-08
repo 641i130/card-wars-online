@@ -86,15 +86,16 @@ shape = SubResource( 1 )
 position = Vector2( 1291.12, 547.351 )
 
 [node name="Lane" type="Area2D" parent="Player Lanes"]
-position = Vector2( -783.947, -36.561 )
+position = Vector2( -1291.12, -548.351 )
 
-[node name="Sprite" type="Sprite" parent="Player Lanes/Lane"]
-position = Vector2( -1.99994, -15.3683 )
+[node name="Sprite2" type="Sprite" parent="Player Lanes/Lane"]
+position = Vector2( 506.17, 498.096 )
 scale = Vector2( 0.377863, 0.377863 )
 texture = ExtResource( 3 )
+offset = Vector2( -1.927, -15.203 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player Lanes/Lane"]
-position = Vector2( -1.92719, -15.203 )
+position = Vector2( 504.317, 498.717 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
@@ -107,7 +108,7 @@ scale = Vector2( 0.377863, 0.377863 )
 texture = ExtResource( 3 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player Lanes/Lane2"]
-position = Vector2( -69.0912, -14.1447 )
+position = Vector2( -68.2975, -14.9384 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
