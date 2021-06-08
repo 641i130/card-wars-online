@@ -9,7 +9,7 @@ onready var handar = []
 onready var discard = []
 var rng = RandomNumberGenerator.new()
 onready var counter = 0
-
+var card_loc = Vector2(-1300, 100)
 func _ready():
 	genDeck()
 
@@ -65,7 +65,8 @@ func random_card():
 		var rand_card = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg" )
 		var game = load("res://game.tscn")
 		var newcard = genCard(cid)
-		newcard.global_position = Vector2(-900, 70)
+		card_loc.x += 200
+		newcard.global_position = card_loc
 		newcard.get_node("Card/Card").set_texture(rand_card)
 		newcard.get_node("Card/Card").scale = Vector2(0.55, 0.55)
 		add_child_below_node(get_tree().get_root().get_node("Desk"),newcard)

@@ -19,6 +19,11 @@ func _on_Area2D_input_event(viewport, event, shape_idx):
 	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
 		# If mouse click left button then give player a card      
 		print("Clicked " + ctype)
+	
+	if event.type is InputEvent.MOUSE_B:
+		"Enlarge self if mouse hovers"
+		print("Hover!")
+		
 
 func _init(in_id=0,in_x=255,in_y=255):
 	"Card class takes ID and sets other values from imported CSV"
