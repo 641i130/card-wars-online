@@ -20,22 +20,24 @@ func _on_Area2D_input_event(_viewport, event, _shape_idx):
 		if len(handar) < 5: # Can only have this many cards in hand
 			# Draw a random card
 			random_card()
-####################################################################
+###########################################################################
 
-func genCard(id):
+func genCard(cid):
 	"Inits card from class and returns it"
 	cardx+=200
-	return load("res://Card.tscn").instance(id,cardx) # init method
+	var cc = preload("res://Card.tscn").instance()#id,cardx,100
+	cc.cid = cid
+	cc.cardloc.x = cardx
+	return cc
 
 func genDeck():
 	# Generate player's deck
 	var c = 0
 	for card in _c.CP1a: # Choose deck here
 		#print(card)
-		for i in range(1,int(card[1])+1):
+		for _i in range(1,int(card[1])+1):
 			playersdeck.append(card[0])
 			c+=1
-			i+=1
 	if (c < 40):
 		print("This deck is broken!")
 
@@ -64,8 +66,6 @@ func random_card():
 		# Add card to hand
 		var rand_card = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg")
 		var newcard = genCard(cid)
-		newcard.get_node("Card/Card").set_texture(rand_card)
-		newcard.get_node("Card/Card").scale = Vector2(0.55, 0.55)
 		add_child_below_node(get_tree().get_root().get_node("Desk"),newcard)
 		counter+=1
 		toHand(cid)

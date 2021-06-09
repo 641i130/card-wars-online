@@ -1,14 +1,11 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=9 format=2]
 
-[ext_resource path="res://scripts/Card.gd" type="Script" id=1]
 [ext_resource path="res://scripts/game.gd" type="Script" id=2]
 [ext_resource path="res://assets/landscapes/blueplains1.jpg" type="Texture" id=3]
 [ext_resource path="res://assets/siteresource/forumpost1.jpg" type="Texture" id=4]
 [ext_resource path="res://assets/fonts/pendlefont-heavy.tres" type="DynamicFont" id=5]
-[ext_resource path="res://scripts/draggy.gd" type="Script" id=6]
 [ext_resource path="res://assets/cards/0.jpg" type="Texture" id=7]
 [ext_resource path="res://scripts/table.gd" type="Script" id=8]
-[ext_resource path="res://Card.tscn" type="PackedScene" id=9]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 118.792, 167.889 )
@@ -137,71 +134,6 @@ position = Vector2( -160.169, -50.2963 )
 scale = Vector2( 0.841, 0.841 )
 shape = SubResource( 1 )
 
-[node name="Player Hand" type="Area2D" parent="."]
-position = Vector2( 1238.15, 793.147 )
-
-[node name="One" type="Area2D" parent="Player Hand"]
-position = Vector2( -973.643, 84.6649 )
-
-[node name="One" type="Sprite" parent="Player Hand/One"]
-position = Vector2( -1.99994, -15.3683 )
-scale = Vector2( 0.377863, 0.377863 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/One"]
-position = Vector2( -0.867737, -13.0841 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-script = ExtResource( 6 )
-
-[node name="Two" type="Area2D" parent="Player Hand"]
-position = Vector2( -760.375, 83.5425 )
-
-[node name="Two" type="Sprite" parent="Player Hand/Two"]
-position = Vector2( -1.99994, -15.3683 )
-scale = Vector2( 0.377863, 0.377863 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Two"]
-position = Vector2( -0.867737, -13.0841 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Three" type="Area2D" parent="Player Hand"]
-position = Vector2( -484.937, 83.7125 )
-
-[node name="Three" type="Sprite" parent="Player Hand/Three"]
-position = Vector2( -69.7825, -14.4157 )
-scale = Vector2( 0.377863, 0.377863 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Three"]
-position = Vector2( -69.0912, -14.1447 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Four" type="Area2D" parent="Player Hand"]
-position = Vector2( -199.869, 82.9335 )
-
-[node name="Four" type="Sprite" parent="Player Hand/Four"]
-position = Vector2( -143.828, -13.3847 )
-scale = Vector2( 0.377863, 0.377863 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Four"]
-position = Vector2( -144.46, -13.4441 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Five" type="Area2D" parent="Player Hand"]
-
-[node name="Five" type="Sprite" parent="Player Hand/Five"]
-position = Vector2( -137.677, 69.5488 )
-scale = Vector2( 0.377863, 0.377863 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player Hand/Five"]
-position = Vector2( -136.598, 69.8072 )
-scale = Vector2( 0.841, 0.841 )
-shape = SubResource( 1 )
-
-[node name="Card" parent="." instance=ExtResource( 9 )]
-
 [node name="Deck" type="Area2D" parent="."]
 position = Vector2( 1432.27, 716.673 )
 script = ExtResource( 8 )
@@ -213,7 +145,6 @@ shape = SubResource( 2 )
 position = Vector2( 0.49765, -0.765823 )
 scale = Vector2( 0.520172, 0.520172 )
 texture = ExtResource( 7 )
-script = ExtResource( 1 )
 
 [node name="MarginContainer" type="MarginContainer" parent="."]
 margin_left = 39.0
@@ -235,5 +166,4 @@ margin_bottom = 107.0
 custom_fonts/font = ExtResource( 5 )
 text = "HP: 25"
 
-[connection signal="input_event" from="Player Hand/One" to="." method="_on_One_input_event"]
 [connection signal="input_event" from="Deck" to="Deck" method="_on_Area2D_input_event"]
