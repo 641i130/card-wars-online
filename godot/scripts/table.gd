@@ -7,7 +7,7 @@ onready var handar = []
 var discard = []
 var rng = RandomNumberGenerator.new()
 var counter = 0
-var cardx = -1300
+var cardloc = Vector2(-1300,100)
 
 func _ready():
 	genDeck()
@@ -24,10 +24,11 @@ func _on_Area2D_input_event(_viewport, event, _shape_idx):
 
 func genCard(cid):
 	"Inits card from class and returns it"
-	cardx+=200
+	cardloc.x+=200
 	var cc = preload("res://Card.tscn").instance()#id,cardx,100
+	cc.position = cardloc
 	cc.cid = cid
-	cc.cardloc.x = cardx
+	cc.texture = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg")
 	return cc
 
 func genDeck():
@@ -64,8 +65,8 @@ func random_card():
 		var cid = rng.randi_range(0, playersdeck.size()-1)
 		# Remove card from deck
 		# Add card to hand
-		var rand_card = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg")
 		var newcard = genCard(cid)
+		print(newcard)
 		add_child_below_node(get_tree().get_root().get_node("Desk"),newcard)
 		counter+=1
 		toHand(cid)

@@ -12,7 +12,7 @@ _global_script_classes=[ {
 "base": "Node",
 "class": "Card",
 "language": "GDScript",
-"path": "res://scripts/Card.gd"
+"path": "res://Card.gd"
 } ]
 _global_script_class_icons={
 "Card": ""
