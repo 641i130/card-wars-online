@@ -12,7 +12,6 @@ var cardloc = Vector2(-1300,100)
 func _ready():
 	genDeck()
 
-"Draw from deck again"
 func _on_Area2D_input_event(_viewport, event, _shape_idx):
 	"When clicked on deck, draw a card from the deck into hand"
 	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
@@ -66,7 +65,6 @@ func random_card():
 		# Remove card from deck
 		# Add card to hand
 		var newcard = genCard(cid)
-		print(newcard)
 		add_child_below_node(get_tree().get_root().get_node("Desk"),newcard)
 		counter+=1
 		toHand(cid)
