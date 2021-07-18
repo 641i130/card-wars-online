@@ -1,7 +1,7 @@
 extends Area2D
 #extends "res://scripts/decklists.gd"
 # When loaded, set this variable to the  sprite in the player's hand
-onready var hand = [[0, null],[1, null], [2, null],[3, null],[4, null]]
+onready var hand = [[0, null],[1, null], [2, null],[3, null],[4, null]] # Max 5 cards in hand ... I need to expand this later
 onready var playersdeck = []
 onready var handar = []
 var discard = []
