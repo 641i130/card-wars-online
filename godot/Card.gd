@@ -11,6 +11,16 @@ var atk
 var def
 var hovered = 0
 
+enum {
+	InHand
+	InPlay
+	InMouse
+	FocusInHand
+	MoveDrawnCardToHand
+	ReOrganizedHand
+}
+var state = InHand
+
 func _ready():
 	"Card class takes ID and sets other values from imported CSV"
 	# name,description,card_type,landscape,cost,atk,def,ability,deck_info,image_name
@@ -23,6 +33,21 @@ func _ready():
 	atk = _c.cardsall[cid][5]
 	def = _c.cardsall[cid][6]
 	print(str(self))
+
+func _physics_process(delta):
+	match state:
+		InHand:
+			pass
+		InPlay:
+			pass
+		InMouse:
+			pass
+		FocusInHand:
+			pass
+		MoveDrawnCardToHand: # Animate card from deck to hand
+			pass
+		ReOrganizedHand:
+			pass
 
 func _on_Area2D_input_event(viewport, event, shape_idx):
 	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
