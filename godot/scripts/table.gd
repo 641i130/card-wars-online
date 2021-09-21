@@ -24,10 +24,14 @@ func _on_Area2D_input_event(_viewport, event, _shape_idx):
 func genCard(cid):
 	"Inits card from class and returns it"
 	cardloc.x+=200
+	#Add little spaces between your cards
+	if counter >= 1:
+		cardloc.x += 10
 	var cc = preload("res://Card.tscn").instance()#id,cardx,100
 	cc.position = cardloc
 	cc.cid = cid
 	cc.texture = load("res://assets/cards/" +str(playersdeck[cid])+ ".jpg")
+	
 	return cc
 
 func genDeck():

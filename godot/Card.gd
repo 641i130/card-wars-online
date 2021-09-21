@@ -48,19 +48,43 @@ func _physics_process(delta):
 			pass
 		ReOrganizedHand:
 			pass
+		
 
+var can_grab = false
+var grabbed_offset = Vector2()
+
+#DRAG AND "DROP" CARDS
 func _on_Area2D_input_event(viewport, event, shape_idx):
-	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT and event.is_pressed():
+	if event is InputEventMouseButton:
+		can_grab = event.pressed
 		print("Clicked " + ctype)
+		grabbed_offset = get_node("Sprite").position - get_viewport().get_mouse_position()
+
+func _process(delta):
+	if Input.is_mouse_button_pressed(BUTTON_LEFT) and can_grab:
+		if get_node("Sprite").scale != Vector2(0.55, 0.55):
+			get_node("Sprite").position = Vector2(0, 0)
+			get_node("Sprite").scale = Vector2(0.55, 0.55)
+		get_node("Sprite").position = get_viewport().get_mouse_position() + grabbed_offset
+	if Input.is_action_just_released("MOUSE_BUTTON"):
+		#REMINDER: Check if the card was dropped in a lane, if not then
+		get_node("Sprite").position = Vector2(0, 0)
+	else:
+		return
+#################
 
 func _on_Area2D_mouse_entered():
 	"Scale and stack card onto top of other cards"
 	print("Entered card!")
-	get_node("Sprite").scale = Vector2(1, 1)
+	#"HOVER"
+	get_node("Sprite").position = Vector2(0, -100)
+	get_node("Sprite").scale = Vector2(0.70, 0.70)
 
 func _on_Area2D_mouse_exited():
 	"Un-scale and un-stack card"
 	print("Left card!")
+	#NORMAL SIZE
+	get_node("Sprite").position = Vector2(0, 0)
 	get_node("Sprite").scale = Vector2(0.55, 0.55)
 
 func _to_string():
@@ -71,4 +95,3 @@ func _to_string():
 	if ctype != "Spell":
 		print("Attack: ",self.atk)
 		print("Defense: ",self.def)
-
