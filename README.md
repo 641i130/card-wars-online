@@ -1,3 +1,7 @@
+# ARCHIVED
+Go here instead:
+https://github.com/kiinii-pixel/Card-Wars
+
 # card-wars-online
 Adventure Time Card Wars TCG playable in browser!
 
